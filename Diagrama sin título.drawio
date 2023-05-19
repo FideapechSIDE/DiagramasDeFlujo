@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T16:21:53.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="lCPlZBwXoBZz6snb5lno" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T16:49:07.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="dYBQ-l9_IFejoWLAleft" version="21.3.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="9560" dy="5213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -218,7 +218,7 @@
         <mxCell id="rKVpv5kRE1DJ6S-B8XNr-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rKVpv5kRE1DJ6S-B8XNr-68" target="rKVpv5kRE1DJ6S-B8XNr-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-68" value="El sistema genera e informe de actividades y la comprobación de gastos" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;spacingBottom=0;spacing=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-68" value="&lt;div&gt;El sistema genera e informe de actividades y la comprobación de gastos&lt;/div&gt;&lt;div&gt;Función 6.1&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontSize=11;rounded=0;spacingBottom=0;spacing=6;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="910" y="907" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rKVpv5kRE1DJ6S-B8XNr-69" value="1.- Proceso de Viáticos" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -1052,7 +1052,7 @@
         <mxCell id="rKVpv5kRE1DJ6S-B8XNr-348" value="Renombrar con UUID y guardar en ComprobantesTemp" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1675" y="5115" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-349" value="&lt;div align=&quot;left&quot;&gt;4.2 Despues de la iteración de archivos recibidos&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-349" value="&lt;div align=&quot;left&quot;&gt;5.2 Despues de la iteración de archivos recibidos&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="35" y="5930" width="590" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rKVpv5kRE1DJ6S-B8XNr-350" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rKVpv5kRE1DJ6S-B8XNr-351" target="rKVpv5kRE1DJ6S-B8XNr-353">
@@ -1278,6 +1278,36 @@
           <mxGeometry x="51" width="179" height="50" as="geometry">
             <mxRectangle width="179" height="50" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-416" value="&lt;div align=&quot;left&quot;&gt;6.1 Generar Comprobación de gastos&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="35" y="8280" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-419" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rKVpv5kRE1DJ6S-B8XNr-417" target="rKVpv5kRE1DJ6S-B8XNr-418">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-417" value="&lt;div&gt;Recibes &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdOficio&lt;/li&gt;&lt;li&gt;ActividadesRealizadas&lt;/li&gt;&lt;li&gt;Objetivos&lt;/li&gt;&lt;li&gt;ResultadosObtenidos&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="25" y="8340" width="225" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-421" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rKVpv5kRE1DJ6S-B8XNr-418" target="rKVpv5kRE1DJ6S-B8XNr-420">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-418" value="Consultar todas las facturas del oficio en la BD" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="8385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-423" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rKVpv5kRE1DJ6S-B8XNr-420" target="rKVpv5kRE1DJ6S-B8XNr-422">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-420" value="Crear oficio de comprobación de gastos" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="8385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-425" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rKVpv5kRE1DJ6S-B8XNr-422" target="rKVpv5kRE1DJ6S-B8XNr-424">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-422" value="Registrar únicamente facturas con estatus 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="8385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rKVpv5kRE1DJ6S-B8XNr-424" value="Generar Oficio de informe de actividades" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="8385" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
