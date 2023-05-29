@@ -1,9 +1,192 @@
-<mxfile host="app.diagrams.net" modified="2023-05-29T17:10:24.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="CBlM8imRZwDsqCMuHd91" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-29T17:11:24.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="o2u6y9Qgdku1xUGmytMb" version="21.3.3" type="github">
   <diagram name="Página-1" id="6SQKcYgpfkD2ooMee5yI">
-    <mxGraphModel dx="1658" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5527" dy="2977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CogGTD0rMsYopm1HXky7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-2" target="CogGTD0rMsYopm1HXky7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-2" value="&lt;div&gt;Crear Submodulo&lt;/div&gt;&lt;div&gt;Control interno en Modulo de Dirección&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-4" target="CogGTD0rMsYopm1HXky7-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-4" value="&lt;div&gt;Crear Tabla&lt;/div&gt;&lt;div&gt;CI_Elementos_Control&lt;/div&gt;&lt;div&gt;con los siguientes campos&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdRegistro&lt;/li&gt;&lt;li&gt;IdElementoControl&lt;br&gt;&lt;/li&gt;&lt;li&gt;Elemento&lt;/li&gt;&lt;li&gt;Norma&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="100" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-6" target="CogGTD0rMsYopm1HXky7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-6" value="&lt;div&gt;CrearTabla &lt;br&gt;&lt;/div&gt;&lt;div&gt;CI_Puntos_Evaluación&lt;/div&gt;&lt;div&gt;con los siguientess campos:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdRegistro (INT)&lt;/li&gt;&lt;li&gt;IdElementoControl (INT)&lt;/li&gt;&lt;li&gt;IDSubElemento (INT)&lt;/li&gt;&lt;li&gt;EvidenciaSugerida (str 300))&lt;/li&gt;&lt;li&gt;Grado0 (str(200)&lt;/li&gt;&lt;li&gt;Grado1 (str(200)&lt;/li&gt;&lt;li&gt;Grado2 (str(200)&lt;/li&gt;&lt;li&gt;Grado3 (str(200)&lt;/li&gt;&lt;li&gt;Grado4 (str(200)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="210" width="270" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-8" target="CogGTD0rMsYopm1HXky7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-8" value="&lt;div&gt;Crear Tabla&lt;/div&gt;&lt;div&gt;CI_HistoricoEvaluaciones&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;NumeroEvaluacion&lt;/li&gt;&lt;li&gt;IdElementoControl&lt;/li&gt;&lt;li&gt;IdPuntoEvaluacion&lt;/li&gt;&lt;li&gt;Calificacion&lt;/li&gt;&lt;li&gt;EvidenciaPresentada (str(300))&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="910" y="136.25" width="255" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-10" target="CogGTD0rMsYopm1HXky7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-10" value="&lt;div&gt;Crear Tabla&lt;/div&gt;&lt;div&gt;CI_AccionesDeMejora&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdRegistro&lt;br&gt;&lt;/li&gt;&lt;li&gt;IdAccionDeMejora&lt;br&gt;&lt;/li&gt;&lt;li&gt;IdPuntoEvaluiacion&lt;/li&gt;&lt;li&gt;IdElementoControl&lt;br&gt;&lt;/li&gt;&lt;li&gt;NumeroEvaluacion&lt;/li&gt;&lt;li&gt;AccionDeMejora&lt;/li&gt;&lt;li&gt;FechaInicio&lt;/li&gt;&lt;li&gt;FechaTerminacion&lt;/li&gt;&lt;li&gt;IdResponsbale&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="111.25" width="210" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-11" value="&lt;div&gt;Crear Tabla &lt;br&gt;&lt;/div&gt;&lt;div&gt;CI_MediosVerificacion&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdMedioDeVerificacion&lt;/li&gt;&lt;li&gt;IdAccionDeMejora&lt;/li&gt;&lt;li&gt;MedioDeVerificacion&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="400" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-12" value="Crear Nueva Evaluación" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="660" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-14" target="CogGTD0rMsYopm1HXky7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-14" value="Recepción cédula de evaluación en formato xslx" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-16" target="CogGTD0rMsYopm1HXky7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-16" value="Guardar Archivo en carpeta Repo/Direccion/CI/Evaluaciones " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-18" target="CogGTD0rMsYopm1HXky7-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-18" value="Obtener Consecutivo de NumeroEvaluacion de la tabla Minutario_Evaluaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="750" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-20" target="CogGTD0rMsYopm1HXky7-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-20" value="Crear Objeto de tipo Minutario_Evaluaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="725" y="750" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-22" target="CogGTD0rMsYopm1HXky7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-22" value="&lt;div&gt;Crear Tabla&lt;/div&gt;&lt;div&gt;CI_Minutario_Evaluaciones&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdRegistro&lt;/li&gt;&lt;li&gt;NúmeroEvaluacion&lt;/li&gt;&lt;li&gt;FechaEvaluacion&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231" y="300" width="206" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-24" target="CogGTD0rMsYopm1HXky7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-24" value="&lt;div&gt;Extraer datos de hoja Cédula Conciliada del xlsx&lt;/div&gt;&lt;div&gt;(Funcion 2.2)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="977.5" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-25" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-27" target="CogGTD0rMsYopm1HXky7-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-27" target="CogGTD0rMsYopm1HXky7-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-27" value="Se pudo extraer la información" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="725" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-29" target="CogGTD0rMsYopm1HXky7-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-29" value="&lt;div&gt;Crear Objeto de Tipo Historico_Evaluaciones&lt;/div&gt;&lt;div&gt;por cada dato extraido&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1126.5" y="880" width="149" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-31" target="CogGTD0rMsYopm1HXky7-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-31" value="Commit a la DB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1141" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-32" value="makeresponse 200 &quot;Archivo cargado con éxito&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1116.5" y="1220" width="169" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-34" target="CogGTD0rMsYopm1HXky7-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-34" value="Eliminar archivo de la carpeta de evaluiaciones" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1301" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-35" value="makeresponse 201, &quot;El archivo de evaluación cargado no es válido&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="740" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-37" target="CogGTD0rMsYopm1HXky7-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-37" value="Renombrar archivo a&amp;nbsp; evaluacion_{NumeroEvaluacion}.xlsx" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1046.5" y="1100" width="309" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-38" value="2.2 Extraer datos hoja excel " style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1390" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-40" target="CogGTD0rMsYopm1HXky7-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-40" value="Abrir Archivo xlsx en python" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-42" target="CogGTD0rMsYopm1HXky7-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-42" value="Abrir la hoja &quot;Cédula Conciliada&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-44" target="CogGTD0rMsYopm1HXky7-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-44" value="Iterar Columna &quot;Y&quot; de la Filas de la 10 a la 105 " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-46" target="CogGTD0rMsYopm1HXky7-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-46" value="Verificar si contenido de celda cumple con exprecion regular &quot;\d\.\d&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1420" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-47" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-49" target="CogGTD0rMsYopm1HXky7-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-48" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-49" target="CogGTD0rMsYopm1HXky7-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-49" value="Coincide" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-51" target="CogGTD0rMsYopm1HXky7-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-51" value="pass" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-53" target="CogGTD0rMsYopm1HXky7-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-53" value="&lt;div&gt;Crear objeto de tipo HistoricoEvaluacion&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;El numero de evaluación es el previamente obtenido en el minutario&lt;br&gt;&lt;/li&gt;&lt;li&gt;El valor de la celda es el punto de evaluación&lt;/li&gt;&lt;li&gt;El valor de la celda &quot;AC&quot; en la misma fila es el valor de la calificación&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1620" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-54" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-56" target="CogGTD0rMsYopm1HXky7-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="1880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-55" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-56" target="CogGTD0rMsYopm1HXky7-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-56" value="Es el fin de la iteración?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1615" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CogGTD0rMsYopm1HXky7-58" target="CogGTD0rMsYopm1HXky7-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-58" value="Siguiente iteración" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CogGTD0rMsYopm1HXky7-59" value="return True" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1650" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
