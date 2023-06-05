@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T19:29:47.037Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="thjZjYpcYd5F60HLG5mT" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T19:48:41.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="g60L7xm1YoqfyvUi_l1Z" version="21.3.6" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="1579" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1326" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,8 +106,20 @@
         <mxCell id="mi7T8ba20FckdrNQM4YQ-22" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Crear Tabla Solicitantes&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdUsuario str(40)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PrimerNombre Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;SegundoNombre Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PrimerApellido Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;SegundoApellido Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Telefono (str(15)&lt;/li&gt;&lt;li&gt;Celular (str(15)&lt;/li&gt;&lt;li&gt;CorreoElectronico (str(50)&lt;/li&gt;&lt;li&gt;Colonia int&lt;/li&gt;&lt;li&gt;Municipio Int&lt;/li&gt;&lt;li&gt;Estado Int&lt;/li&gt;&lt;li&gt;CP str(8)&lt;br&gt;&lt;/li&gt;&lt;li&gt;ArraigoAnos Int&lt;/li&gt;&lt;li&gt;ArraigoMeses Int&lt;br&gt;&lt;/li&gt;&lt;li&gt;GradoEstudios Int&lt;/li&gt;&lt;li&gt;MunicipioNacimiento Int&lt;br&gt;&lt;/li&gt;&lt;li&gt;EstadoNacimiento Int&lt;/li&gt;&lt;li&gt;FechaNacimiento date&lt;/li&gt;&lt;li&gt;EstadoCivil int&lt;/li&gt;&lt;li&gt;RFC str(13)&lt;br&gt;&lt;/li&gt;&lt;li&gt;DependientesEconomicos Int&lt;/li&gt;&lt;li&gt;Instagram&lt;/li&gt;&lt;li&gt;Twitter&lt;/li&gt;&lt;li&gt;Facebook&lt;/li&gt;&lt;li&gt;Youtube&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="930" width="325" height="440" as="geometry" />
         </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-24" target="mi7T8ba20FckdrNQM4YQ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mi7T8ba20FckdrNQM4YQ-24" value="&lt;div&gt;Crear Tabla Solicitantes_Conyuges&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdUsuario str(40)&lt;/li&gt;&lt;li&gt;PrimerNombre Str(40)&lt;/li&gt;&lt;li&gt;SegundoNombre Str(40)&lt;/li&gt;&lt;li&gt;PrimerApellido Str(40)&lt;/li&gt;&lt;li&gt;SegundoApellido Str(40)&lt;/li&gt;&lt;li&gt;MunicipioNacimiento Int&lt;br&gt;&lt;/li&gt;&lt;li&gt;EstadoNacimiento Int&lt;/li&gt;&lt;li&gt;FechaNacimiento date&lt;/li&gt;&lt;li&gt;RFC str(13)&lt;/li&gt;&lt;li&gt;Ocupacion str(30)&lt;/li&gt;&lt;li&gt;RegimenMatrimonial&amp;nbsp; str(30)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="975" width="320" height="350" as="geometry" />
+          <mxGeometry x="750" y="975" width="320" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-26" target="mi7T8ba20FckdrNQM4YQ-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-26" value="&lt;div&gt;Crear Tabla Solicitudes&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitante str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;FechaSolicitud date&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdModalidad Int&lt;/b&gt;&lt;/li&gt;&lt;li&gt;TipoCredito Int&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1070" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-28" value="&lt;div&gt;Crear Tabla Solicitudes_Credito_Avio&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdSolicitud str(40)&lt;/li&gt;&lt;li&gt;Plazo&lt;/li&gt;&lt;li&gt;Gracia&lt;/li&gt;&lt;li&gt;Monto&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1055" width="160" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
