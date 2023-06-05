@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T19:48:41.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="g60L7xm1YoqfyvUi_l1Z" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T19:53:04.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="3tyxFtRNG79FgMuIF-Bz" version="21.3.6" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
     <mxGraphModel dx="1326" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,8 +118,14 @@
         <mxCell id="mi7T8ba20FckdrNQM4YQ-26" value="&lt;div&gt;Crear Tabla Solicitudes&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitante str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;FechaSolicitud date&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdModalidad Int&lt;/b&gt;&lt;/li&gt;&lt;li&gt;TipoCredito Int&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1070" width="230" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-28" target="mi7T8ba20FckdrNQM4YQ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mi7T8ba20FckdrNQM4YQ-28" value="&lt;div&gt;Crear Tabla Solicitudes_Credito_Avio&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdSolicitud str(40)&lt;/li&gt;&lt;li&gt;Plazo&lt;/li&gt;&lt;li&gt;Gracia&lt;/li&gt;&lt;li&gt;Monto&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1055" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-30" value="&lt;div&gt;Crear Tabla Solicitudes_Credito_Refaccionario&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdSolicitud str(40)&lt;/li&gt;&lt;li&gt;Plazo&lt;/li&gt;&lt;li&gt;Gracia&lt;/li&gt;&lt;li&gt;Monto&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="1055" width="310" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
