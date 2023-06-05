@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T19:53:04.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="3tyxFtRNG79FgMuIF-Bz" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T20:02:23.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="a1IKtOP8GIZNKI_R1xKl" version="21.3.6" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="1326" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1143" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,8 +124,14 @@
         <mxCell id="mi7T8ba20FckdrNQM4YQ-28" value="&lt;div&gt;Crear Tabla Solicitudes_Credito_Avio&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdSolicitud str(40)&lt;/li&gt;&lt;li&gt;Plazo&lt;/li&gt;&lt;li&gt;Gracia&lt;/li&gt;&lt;li&gt;Monto&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1420" y="1055" width="160" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-30" target="mi7T8ba20FckdrNQM4YQ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mi7T8ba20FckdrNQM4YQ-30" value="&lt;div&gt;Crear Tabla Solicitudes_Credito_Refaccionario&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdSolicitud str(40)&lt;/li&gt;&lt;li&gt;Plazo&lt;/li&gt;&lt;li&gt;Gracia&lt;/li&gt;&lt;li&gt;Monto&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1055" width="310" height="190" as="geometry" />
+          <mxGeometry x="1345" y="1490" width="310" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-32" value="&lt;div&gt;Crear Tabla Solicitud_Empresa&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Nombre str(150)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Telefono (str(15)&lt;/li&gt;&lt;li&gt;Celular (str(15)&lt;/li&gt;&lt;li&gt;CorreoElectronico (str(50)&lt;/li&gt;&lt;li&gt;Colonia int&lt;/li&gt;&lt;li&gt;Municipio Int&lt;/li&gt;&lt;li&gt;Estado Int&lt;/li&gt;&lt;li&gt;CP str(8)&lt;br&gt;&lt;/li&gt;&lt;li&gt;ArraigoAnos Int&lt;/li&gt;&lt;li&gt;ArraigoMeses Int&lt;/li&gt;&lt;li&gt;Domicilio str(100)&lt;/li&gt;&lt;li&gt;EntreCalles str(100)&lt;/li&gt;&lt;li&gt;RFC str(13)&lt;/li&gt;&lt;li&gt;PaginaWeb str(60)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Instagram str(30)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Twitter str(30)&lt;/li&gt;&lt;li&gt;Facebook str(30)&lt;/li&gt;&lt;li&gt;Youtube str(30)&lt;/li&gt;&lt;li&gt;NombreComercial str(100)&lt;/li&gt;&lt;li&gt;ActividadEspecifica str(100)&lt;/li&gt;&lt;li&gt;GiroEmpresa str(50)&lt;/li&gt;&lt;li&gt;ExperienciaMeses Int&lt;/li&gt;&lt;li&gt;ExperienciaAnos Int&lt;/li&gt;&lt;li&gt;MujeresActuales Int&lt;/li&gt;&lt;li&gt;HombresActuales Int&lt;/li&gt;&lt;li&gt;SueldoActual float&lt;/li&gt;&lt;li&gt;MujeresAGenerar int&lt;/li&gt;&lt;li&gt;HombresAGenerar int&lt;/li&gt;&lt;li&gt;SueldoAGenerar Int&lt;/li&gt;&lt;li&gt;AltaHacienda date&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1440" width="320" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
