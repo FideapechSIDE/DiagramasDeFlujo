@@ -1,50 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2023-06-05T17:44:33.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="pfWA5oHfMqkMa7cuuVUo" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-05T19:07:51.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="rTi1-L_8642lPB6-Imvh" version="21.3.6" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="1658" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="896" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WAtn7fkUdrT8nPm2LFEP-1" target="WAtn7fkUdrT8nPm2LFEP-2">
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WAtn7fkUdrT8nPm2LFEP-1" target="WAtn7fkUdrT8nPm2LFEP-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-1" value="&lt;div&gt;Crear nuevo repositorio&lt;/div&gt;&lt;div&gt;Fideweb-server&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="110" height="110" as="geometry" />
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-1" value="&lt;div&gt;Crear nuevo repositorio&lt;/div&gt;&lt;div&gt;Fideweb-server&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="50" y="100" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WAtn7fkUdrT8nPm2LFEP-2" target="WAtn7fkUdrT8nPm2LFEP-4">
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WAtn7fkUdrT8nPm2LFEP-2" target="WAtn7fkUdrT8nPm2LFEP-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-2" value="Crear base de datos fideweb" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="65" width="120" height="60" as="geometry" />
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-2" value="Crear base de datos fideweb" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WAtn7fkUdrT8nPm2LFEP-4" target="WAtn7fkUdrT8nPm2LFEP-6">
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WAtn7fkUdrT8nPm2LFEP-4" target="WAtn7fkUdrT8nPm2LFEP-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-4" value="Crear nuevo proyecto flask" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="65" width="120" height="60" as="geometry" />
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-4" value="Crear nuevo proyecto flask" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="435" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WAtn7fkUdrT8nPm2LFEP-6" target="WAtn7fkUdrT8nPm2LFEP-8">
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WAtn7fkUdrT8nPm2LFEP-6" target="WAtn7fkUdrT8nPm2LFEP-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-6" value="Crear archivo env-likle.txt vacío" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="65" width="120" height="60" as="geometry" />
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-6" value="Crear archivo env-likle.txt vacío" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WAtn7fkUdrT8nPm2LFEP-8" target="WAtn7fkUdrT8nPm2LFEP-12">
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WAtn7fkUdrT8nPm2LFEP-8" target="WAtn7fkUdrT8nPm2LFEP-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-8" value="Crear endpoint ping" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="65" width="120" height="60" as="geometry" />
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-8" value="Crear endpoint ping" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WAtn7fkUdrT8nPm2LFEP-12" target="WAtn7fkUdrT8nPm2LFEP-16">
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="WAtn7fkUdrT8nPm2LFEP-12" target="WAtn7fkUdrT8nPm2LFEP-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-12" value="Copiar gitignore de la platafide al nuevo proyecto" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="65" width="120" height="60" as="geometry" />
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-12" value="Copiar gitignore de la platafide al nuevo proyecto" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-16" value="&lt;div&gt;Commit a git con el mensaje &quot;Inicialización de la aplicacion&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;push&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="17.5" width="120" height="155" as="geometry" />
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-16" value="&lt;div&gt;Commit a git con el mensaje &quot;Inicialización de la aplicacion&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;push&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="77.5" width="120" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-18" value="&lt;div align=&quot;left&quot;&gt;1.1 Crear Proyecto&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="10" width="260" height="30" as="geometry" />
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-18" value="&lt;div align=&quot;left&quot;&gt;1.1 Crear Proyecto&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-3" value="&lt;div align=&quot;left&quot;&gt;2.1 Crear Funcion encriptadora de textos&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="320" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-4" target="mi7T8ba20FckdrNQM4YQ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-4" value="&lt;div&gt;Crear función en utils para encriptar textos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibe como paámetro:&lt;/div&gt;&lt;div&gt;Texto&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-10" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-7" target="mi7T8ba20FckdrNQM4YQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-12" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-7" target="mi7T8ba20FckdrNQM4YQ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-7" value="El parámetro es de tipo string?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="395" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-9" target="mi7T8ba20FckdrNQM4YQ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-9" value="Aplicar hash&amp;nbsp; de tipo SHA-256" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-11" target="mi7T8ba20FckdrNQM4YQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-11" value="Parsear a valor a string" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-15" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-13" target="mi7T8ba20FckdrNQM4YQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mi7T8ba20FckdrNQM4YQ-13" target="mi7T8ba20FckdrNQM4YQ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-13" value="Se pudo convertir el tipo de dato" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="590" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-16" value="&lt;div&gt;Raise Value Error&lt;/div&gt;&lt;div&gt;El valor ingresado no se puede encriptar&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="496.25" y="750" width="162.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-18" value="Retornar Hash" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="735" y="420" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
