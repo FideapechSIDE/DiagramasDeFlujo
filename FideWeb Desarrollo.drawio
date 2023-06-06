@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T19:55:40.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="bzywGZB7dpXW9-6Dayf7" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T20:05:18.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="oHIjDmtQw8Lr--FoRUFQ" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="4623" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3655" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,7 +349,7 @@
         <mxCell id="ucuCujFrz_LJyA32qgdX-89" value="Los valores que están en negritas son los que son obligatorios, los demas deberán tener un valor por defecto en el constructor del modelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="1030" width="780" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-90" value="1.1.0 Objeto EmailConfirmacion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="ucuCujFrz_LJyA32qgdX-90" value="1.1.0.1 Objeto EmailConfirmacion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="3660" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-91" target="ucuCujFrz_LJyA32qgdX-92">
@@ -416,22 +416,106 @@
           <mxGeometry x="15" y="3700" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-123" value="1.1.1 Enviar EmailConfirmacion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="30" y="3950" width="490" height="30" as="geometry" />
+          <mxGeometry x="40" y="4680" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-124" target="ucuCujFrz_LJyA32qgdX-125">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-124" value="&lt;div&gt;Recibes objeto EmailConfirmacion&lt;/div&gt;&lt;div&gt;(1.1.0)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="4020" width="122.5" height="130" as="geometry" />
+          <mxGeometry x="50" y="4750" width="122.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-125" target="ucuCujFrz_LJyA32qgdX-127">
+        <mxCell id="ucuCujFrz_LJyA32qgdX-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-125" target="ucuCujFrz_LJyA32qgdX-145">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-125" value="Tomas Plantilla html y conviertes a string" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="4055" width="120" height="60" as="geometry" />
+          <mxGeometry x="245" y="4785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-127" target="ucuCujFrz_LJyA32qgdX-151">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-127" value="&lt;div&gt;Remplazas campos {PrimerNombre}, {PrimerApellido},&lt;/div&gt;&lt;div&gt;{URLDestino}&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="4055" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="4785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-129" value="1.1.0.2 Ofuscar UUID&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="4010" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-130" target="ucuCujFrz_LJyA32qgdX-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-130" value="recibes (uuid)como parametro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="4090" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-131" target="ucuCujFrz_LJyA32qgdX-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-131" value="Eliminar &quot;-&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="4150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-133" target="ucuCujFrz_LJyA32qgdX-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-133" value="Invertir el string" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="4150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-135" value="Retornar UUID Ofuscado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="4140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-137" value="1.1.0.2 Desofuscar UUID&#39;s" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="4350" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-139" target="ucuCujFrz_LJyA32qgdX-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-139" value="recibes (uuid_ofuscado) como parametro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="4430" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-141" target="ucuCujFrz_LJyA32qgdX-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-141" value="Invertir String" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="4490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-143" target="ucuCujFrz_LJyA32qgdX-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-143" value="&lt;div&gt;Agregar &quot;-&quot; con respecto a su posición original &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Todos los uuid llevan los guiones en la misma posición&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="4460" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-144" value="Retornar UUID desofuscado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="4480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-145" target="ucuCujFrz_LJyA32qgdX-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-145" value="Ofuscas UUID" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="4785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-148" target="ucuCujFrz_LJyA32qgdX-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-148" value="&lt;div&gt;Creas url de destino&lt;/div&gt;&lt;div&gt;http:///www.fideapech.com/ConfirmarUsuario/{uuid_ofuscado}&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="4785" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-151" target="ucuCujFrz_LJyA32qgdX-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-151" value="Envías correo electrónico" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="4785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-153" target="ucuCujFrz_LJyA32qgdX-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-153" target="ucuCujFrz_LJyA32qgdX-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-153" value="&lt;div&gt;Se pudo envíar?&lt;/div&gt;&lt;div&gt;(try,cathch)&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="4775" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-155" value="Return True" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="4775" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-159" value="&lt;div&gt;Raise ValueError&lt;/div&gt;&lt;div&gt;&quot;Hubo un error al envíar el correo electrónico&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1137.5" y="4910" width="195" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
