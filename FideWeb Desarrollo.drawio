@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T19:32:43.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="KZD2XaqxGqO2hHFek8m3" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T19:39:09.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="o_eQ5arxb_8bUP3pf0l-" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3992" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3932" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,14 +376,38 @@
         <mxCell id="ucuCujFrz_LJyA32qgdX-96" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;201&lt;/div&gt;&lt;div&gt;&quot;Ya hay una cuenta con este correo electrónico&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="2860" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-100" target="ucuCujFrz_LJyA32qgdX-102">
+        <mxCell id="ucuCujFrz_LJyA32qgdX-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-100" target="ucuCujFrz_LJyA32qgdX-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-100" value="Aplicamos Hash-256" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ucuCujFrz_LJyA32qgdX-100" value="&lt;div&gt;Aplicamos Hash-256&lt;/div&gt;&lt;div&gt;a la contraseña&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="2980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-102" value="Creamos Registro Auth" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="3090" width="120" height="60" as="geometry" />
+        <mxCell id="ucuCujFrz_LJyA32qgdX-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-102" target="ucuCujFrz_LJyA32qgdX-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-102" value="Creamos Registro Tabla Auth" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="3170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-104" target="ucuCujFrz_LJyA32qgdX-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-104" value="Creamos registro en tabla usuarios usando como IdUsuario el UUID generado en el paso anterior" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="3260" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-109" target="ucuCujFrz_LJyA32qgdX-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-109" value="Generamos UUID para asingar un IdUsuario" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="3080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-113" target="ucuCujFrz_LJyA32qgdX-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-113" value="Enviamos Correo Electrónico de confirmacion" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="3410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-119" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;&quot;Usuario Creado con Éxito&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="3520" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
