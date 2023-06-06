@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T17:57:39.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="aUeoX-SpTrkvPduVm_6P" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T18:04:52.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="eJrsgLChv75BHt9eYGrv" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="1143" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2763" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,8 +142,26 @@
         <mxCell id="ucuCujFrz_LJyA32qgdX-1" value="&lt;div&gt;Crear Tabla Solicitudes_Garantia_Hipotecaria&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;TipoInmueble str(40)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Valor&lt;br&gt;&lt;/li&gt;&lt;li&gt;Cobertura&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="1640" width="320" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-3" target="ucuCujFrz_LJyA32qgdX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-3" value="&lt;div&gt;Crear Tabla Solicitudes_Garantia_Prendaria&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;TipoVehiculo str(40)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Marca&lt;br&gt;&lt;/li&gt;&lt;li&gt;Modelo&lt;/li&gt;&lt;li&gt;Valor&lt;/li&gt;&lt;li&gt;Cobertura&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1625" width="320" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-6" target="ucuCujFrz_LJyA32qgdX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-6" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Crear Tabla Avales&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdAval str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PrimerNombre Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;SegundoNombre Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PrimerApellido Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;SegundoApellido Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Telefono (str(15)&lt;/li&gt;&lt;li&gt;Celular (str(15)&lt;/li&gt;&lt;li&gt;CorreoElectronico (str(50)&lt;/li&gt;&lt;li&gt;Colonia int&lt;/li&gt;&lt;li&gt;Municipio Int&lt;/li&gt;&lt;li&gt;Estado Int&lt;/li&gt;&lt;li&gt;CP str(8)&lt;br&gt;&lt;/li&gt;&lt;li&gt;MunicipioNacimiento Int&lt;br&gt;&lt;/li&gt;&lt;li&gt;EstadoNacimiento Int&lt;/li&gt;&lt;li&gt;FechaNacimiento date&lt;/li&gt;&lt;li&gt;EstadoCivil int&lt;/li&gt;&lt;li&gt;RFC str(13)&lt;/li&gt;&lt;li&gt;Ocupacion str(50)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="2040" width="325" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-7" target="ucuCujFrz_LJyA32qgdX-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-7" value="&lt;div&gt;Crear Tabla Avales_Conyuges&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdAval str(40)&lt;/li&gt;&lt;li&gt;PrimerNombre Str(40)&lt;/li&gt;&lt;li&gt;SegundoNombre Str(40)&lt;/li&gt;&lt;li&gt;PrimerApellido Str(40)&lt;/li&gt;&lt;li&gt;SegundoApellido Str(40)&lt;/li&gt;&lt;li&gt;MunicipioNacimiento Int&lt;br&gt;&lt;/li&gt;&lt;li&gt;EstadoNacimiento Int&lt;/li&gt;&lt;li&gt;FechaNacimiento date&lt;/li&gt;&lt;li&gt;Celular str(14)&lt;/li&gt;&lt;li&gt;Domicilio str(150)&lt;br&gt;&lt;/li&gt;&lt;li&gt;RegimenMatrimonial&amp;nbsp; str(30)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2085" width="320" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-11" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Crear Tabla Avales&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdReferencia str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PrimerNombre Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;SegundoNombre Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PrimerApellido Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;SegundoApellido Str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Telefono (str(15)&lt;/li&gt;&lt;li&gt;Celular (str(15)&lt;/li&gt;&lt;li&gt;Calle str(100)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Colonia int&lt;/li&gt;&lt;li&gt;Municipio Int&lt;/li&gt;&lt;li&gt;Estado Int&lt;/li&gt;&lt;li&gt;CP str(8)&lt;/li&gt;&lt;li&gt;ArraigoMesess int&lt;/li&gt;&lt;li&gt;ArraigoAnos int&lt;/li&gt;&lt;li&gt;RelacionSolicitante int&lt;/li&gt;&lt;li&gt;TiempoRelacionMeses Int&lt;/li&gt;&lt;li&gt;TiempoRelacionAnos iInt&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="2040" width="325" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
