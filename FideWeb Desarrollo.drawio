@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T19:41:30.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="r8o9hfEGs_sasEtE8lJA" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T19:55:40.634Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="bzywGZB7dpXW9-6Dayf7" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
     <mxGraphModel dx="4623" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -349,8 +349,8 @@
         <mxCell id="ucuCujFrz_LJyA32qgdX-89" value="Los valores que están en negritas son los que son obligatorios, los demas deberán tener un valor por defecto en el constructor del modelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="1030" width="780" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-90" value="1.1 Crear Usuario" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="50" y="2720" width="490" height="30" as="geometry" />
+        <mxCell id="ucuCujFrz_LJyA32qgdX-90" value="1.1.0 Objeto EmailConfirmacion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="3660" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-91" target="ucuCujFrz_LJyA32qgdX-92">
           <mxGeometry relative="1" as="geometry" />
@@ -408,6 +408,30 @@
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-119" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;&quot;Usuario Creado con Éxito&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="485" y="3520" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-121" value="1.1 Crear Usuario" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="2730" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-122" value="&lt;div&gt;Crear Clase &lt;br&gt;&lt;/div&gt;&lt;div&gt;con los siguientes atributos&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;PrimerNombre&lt;/li&gt;&lt;li&gt;PrimerApellido&lt;/li&gt;&lt;li&gt;CorreoElectronico&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="3700" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-123" value="1.1.1 Enviar EmailConfirmacion" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="30" y="3950" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-124" target="ucuCujFrz_LJyA32qgdX-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-124" value="&lt;div&gt;Recibes objeto EmailConfirmacion&lt;/div&gt;&lt;div&gt;(1.1.0)&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="4020" width="122.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-125" target="ucuCujFrz_LJyA32qgdX-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-125" value="Tomas Plantilla html y conviertes a string" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="4055" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-127" value="&lt;div&gt;Remplazas campos {PrimerNombre}, {PrimerApellido},&lt;/div&gt;&lt;div&gt;{URLDestino}&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="4055" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
