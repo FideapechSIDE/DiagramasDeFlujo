@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T19:20:41.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="jmmEf9PE9v1rDHoe1B1L" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T19:32:43.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="KZD2XaqxGqO2hHFek8m3" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3876" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3992" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,10 +43,10 @@
         <mxCell id="WAtn7fkUdrT8nPm2LFEP-16" value="&lt;div&gt;Commit a git con el mensaje &quot;Inicialización de la aplicacion&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;push&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1180" y="207.5" width="120" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="WAtn7fkUdrT8nPm2LFEP-18" value="&lt;div align=&quot;left&quot;&gt;1.1 Crear Proyecto&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="WAtn7fkUdrT8nPm2LFEP-18" value="&lt;div align=&quot;left&quot;&gt;0.1 Crear Proyecto&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="50" y="200" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mi7T8ba20FckdrNQM4YQ-3" value="&lt;div align=&quot;left&quot;&gt;2.1 Crear Funcion encriptadora de textos&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-3" value="&lt;div align=&quot;left&quot;&gt;0.2 Crear Funcion encriptadora de textos&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="450" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mi7T8ba20FckdrNQM4YQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mi7T8ba20FckdrNQM4YQ-4" target="mi7T8ba20FckdrNQM4YQ-7" edge="1">
@@ -91,7 +91,7 @@
         <mxCell id="mi7T8ba20FckdrNQM4YQ-18" value="Retornar Hash" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="745" y="550" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mi7T8ba20FckdrNQM4YQ-20" value="3.1 Crear Modelos de Usuario" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-20" value="0.3 Crear Modelos de Usuario" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="1030" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mi7T8ba20FckdrNQM4YQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mi7T8ba20FckdrNQM4YQ-21" target="mi7T8ba20FckdrNQM4YQ-22" edge="1">
@@ -348,6 +348,42 @@
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-89" value="Los valores que están en negritas son los que son obligatorios, los demas deberán tener un valor por defecto en el constructor del modelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="1030" width="780" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-90" value="1.1 Crear Usuario" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="2720" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-91" target="ucuCujFrz_LJyA32qgdX-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-91" value="&lt;div&gt;Crear peticion POST&lt;/div&gt;&lt;div&gt;/api/usuarios/&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;PrimerNombre&lt;/li&gt;&lt;li&gt;SegundoNombre&lt;/li&gt;&lt;li&gt;PrimerApellido&lt;/li&gt;&lt;li&gt;SegundoApellido&lt;/li&gt;&lt;li&gt;CorreoElectronico&lt;/li&gt;&lt;li&gt;Contrasena&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2800" width="230" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-92" target="ucuCujFrz_LJyA32qgdX-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-92" value="Consultar la base de datos en busca de un registro con el correo electronico" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-97" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-94" target="ucuCujFrz_LJyA32qgdX-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-94" target="ucuCujFrz_LJyA32qgdX-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-94" value="El correo existe en la bd?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="2860" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-96" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;201&lt;/div&gt;&lt;div&gt;&quot;Ya hay una cuenta con este correo electrónico&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="2860" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-100" target="ucuCujFrz_LJyA32qgdX-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-100" value="Aplicamos Hash-256" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="2980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-102" value="Creamos Registro Auth" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="3090" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
