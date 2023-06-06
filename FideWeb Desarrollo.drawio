@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T20:56:33.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="vqsoApFYPd9kP62G6Nh2" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T20:59:41.513Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Sa-JdOUY6DIN_xI_o2I0" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3778" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3825" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
         <mxCell id="mi7T8ba20FckdrNQM4YQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mi7T8ba20FckdrNQM4YQ-21" target="mi7T8ba20FckdrNQM4YQ-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mi7T8ba20FckdrNQM4YQ-21" value="&lt;div&gt;Crear Tabla Auth&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IIdUsuario str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Email (str(50))&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Contrasena (str(150))&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Confirmado (Bool)&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-21" value="&lt;div&gt;Crear Tabla Auth&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IIdUsuario str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Email (str(50))&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Contrasena (str(150))&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Confirmado (INT)&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="50" y="1160" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="mi7T8ba20FckdrNQM4YQ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mi7T8ba20FckdrNQM4YQ-22" target="mi7T8ba20FckdrNQM4YQ-24" edge="1">
