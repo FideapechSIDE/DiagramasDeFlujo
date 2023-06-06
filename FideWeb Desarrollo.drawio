@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T19:18:09.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="zlB5j3b5vEOhZq_hk-Xh" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T19:20:41.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="jmmEf9PE9v1rDHoe1B1L" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="4761" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3876" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,6 +345,9 @@
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-88" value="1 Auth" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-2490" y="177.5" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ucuCujFrz_LJyA32qgdX-89" value="Los valores que están en negritas son los que son obligatorios, los demas deberán tener un valor por defecto en el constructor del modelo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1030" width="780" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
