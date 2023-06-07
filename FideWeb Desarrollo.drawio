@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T02:53:20.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="T5m8awDaAmTYNCaIWkHN" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T02:59:12.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="tyqaW8viI5EVoz-e45i3" version="21.3.2" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3873" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4314" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -959,6 +959,12 @@
         </mxCell>
         <mxCell id="2q6CJl_LG5lzi45uCx-r-93" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Crear Tabla Modalidades_Condiciones&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdModalidad Int&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;TipoCredito Int&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;GraciaMin&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;GraciaMax&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PlazoMin&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PlazoMax&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;MontoMin&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;MontoMax&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="2905" width="325" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-95" value="2 Administración de Contenido" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="2870" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-96" value="2.1 Agregar Modalidades" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="2940" width="400" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
