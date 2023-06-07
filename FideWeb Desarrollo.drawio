@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T17:18:52.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="s0lZDP777aiP549lKCLQ" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T17:20:21.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iC5TA6bLPgaqTTJntIw4" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="4919" dy="1276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3743" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -407,7 +407,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-113" value="&lt;div&gt;Enviamos Correo Electrónico de confirmacion &lt;br&gt;&lt;/div&gt;&lt;div&gt;funcion 1.1.1&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="4550" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="4530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-119" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;&quot;Usuario Creado con Éxito&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="485" y="4660" width="170" height="80" as="geometry" />
@@ -796,10 +796,10 @@
         <mxCell id="2q6CJl_LG5lzi45uCx-r-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="-90" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2q6CJl_LG5lzi45uCx-r-16" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fbfe2a;" parent="1" vertex="1">
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-16" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="-90" y="1030" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2q6CJl_LG5lzi45uCx-r-17" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-17" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="-90" y="3870" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2q6CJl_LG5lzi45uCx-r-18" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
