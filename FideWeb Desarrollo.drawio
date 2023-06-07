@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T01:58:03.127Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="kV7rZVxbYSSAms2WE2Qc" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T02:43:00.176Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="aL2gvEO8O2z5H1vHVfDr" version="21.3.2" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3609" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3994" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -673,17 +673,14 @@
         <mxCell id="ucuCujFrz_LJyA32qgdX-229" value="Envías correo electrónico" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="675" y="8300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-230" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ucuCujFrz_LJyA32qgdX-232" target="ucuCujFrz_LJyA32qgdX-233" edge="1">
+        <mxCell id="ucuCujFrz_LJyA32qgdX-231" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ucuCujFrz_LJyA32qgdX-232" target="ucuCujFrz_LJyA32qgdX-234" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-231" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ucuCujFrz_LJyA32qgdX-232" target="ucuCujFrz_LJyA32qgdX-234" edge="1">
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-232" target="2q6CJl_LG5lzi45uCx-r-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-232" value="&lt;div&gt;Se pudo envíar?&lt;/div&gt;&lt;div&gt;(try,cathch)&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="8290" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-233" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;&quot;solicitud enviada con exito&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="8290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-234" value="&lt;div&gt;Raise ValueError&lt;/div&gt;&lt;div&gt;&quot;Hubo un error al envíar el correo electrónico&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="827.5" y="8420" width="195" height="80" as="geometry" />
@@ -730,7 +727,7 @@
         <mxCell id="ucuCujFrz_LJyA32qgdX-250" value="No&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ucuCujFrz_LJyA32qgdX-251" target="ucuCujFrz_LJyA32qgdX-252" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ucuCujFrz_LJyA32qgdX-256" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ucuCujFrz_LJyA32qgdX-251" target="ucuCujFrz_LJyA32qgdX-255" edge="1">
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ucuCujFrz_LJyA32qgdX-251" target="2q6CJl_LG5lzi45uCx-r-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-251" value="El Usuario existe?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -743,22 +740,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-255" value="&lt;div&gt;Aplicar hash a la contraseña &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;i&gt;(funcion 0.2)&lt;/i&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="8870" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="9030" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-261" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ucuCujFrz_LJyA32qgdX-257" target="ucuCujFrz_LJyA32qgdX-258" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-257" value="Actualizar Contrasena en la BD" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="8960" width="100" height="80" as="geometry" />
+          <mxGeometry x="670" y="9120" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-263" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ucuCujFrz_LJyA32qgdX-258" target="ucuCujFrz_LJyA32qgdX-262" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-258" value="Commit a la db" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="9070" width="100" height="80" as="geometry" />
+          <mxGeometry x="670" y="9230" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ucuCujFrz_LJyA32qgdX-262" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;&quot;Contraseña Restablecida&quot;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="860" y="9070" width="150" height="80" as="geometry" />
+          <mxGeometry x="860" y="9230" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2q6CJl_LG5lzi45uCx-r-1" value="&lt;font style=&quot;font-size: 70px;&quot;&gt;Colorimetria Commits&lt;/font&gt;&amp;nbsp; " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1720" y="110" width="710" height="90" as="geometry" />
@@ -923,6 +920,33 @@
         </mxCell>
         <mxCell id="2q6CJl_LG5lzi45uCx-r-75" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Crear Tabla Estatus_Cuentas&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdEstatusCuenta Int&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Estatus str(40)&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935" y="2890" width="325" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2q6CJl_LG5lzi45uCx-r-77" target="2q6CJl_LG5lzi45uCx-r-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-77" value="Modificar IdEstatusCuenta a 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="8300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2q6CJl_LG5lzi45uCx-r-79" target="2q6CJl_LG5lzi45uCx-r-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-79" value="Commit a la BD" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="8300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-82" value="&lt;div&gt;makeresponse &lt;br&gt;&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;Correo de Recuperación enviado con éxtio&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1495" y="8290" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2q6CJl_LG5lzi45uCx-r-84" target="ucuCujFrz_LJyA32qgdX-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2q6CJl_LG5lzi45uCx-r-84" target="2q6CJl_LG5lzi45uCx-r-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-84" value="El IdEstatusCuenta es 2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="8910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2q6CJl_LG5lzi45uCx-r-87" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;201&lt;/div&gt;&lt;div&gt;Esta cuenta no solicito un cambio de contraseña&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="8910" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
