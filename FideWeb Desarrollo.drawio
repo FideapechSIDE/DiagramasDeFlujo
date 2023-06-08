@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T19:05:14.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_L3NpxA5UjZqbxrtbZN4" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T19:37:49.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5U6dR54VI-I48Uf_lqEI" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3744" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3687" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1589,7 +1589,7 @@
         <mxCell id="dpEYCnn7MjcAzg770tFh-40" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;Tipo de Credito creado con éxito&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1435" y="15587.5" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-41" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dpEYCnn7MjcAzg770tFh-41" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-80" y="15270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dpEYCnn7MjcAzg770tFh-47" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpEYCnn7MjcAzg770tFh-44" target="dpEYCnn7MjcAzg770tFh-46">
