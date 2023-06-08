@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T18:18:41.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="U7rDQ78oiEQbw0CEJVOw" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T18:37:07.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Yoinsgwa0umbhsrEaiB9" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
     <mxGraphModel dx="3687" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1225,7 +1225,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-83" value="&lt;div&gt;Crear petición Get&lt;/div&gt;&lt;div&gt;/api/modalidades/condiciones&lt;/div&gt;&lt;div&gt;Recibes&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdModalidad&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="5" y="12780" width="200" height="200" as="geometry" />
+          <mxGeometry x="5" y="12810" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RdtmeXHbH3SucCd2qRv6-85" target="RdtmeXHbH3SucCd2qRv6-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1248,7 +1248,7 @@
         <mxCell id="RdtmeXHbH3SucCd2qRv6-90" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;{&quot;modalidades&quot;: [&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&quot;modalidad&quot;:Modalidad,&lt;/div&gt;&lt;div&gt;&quot;IdModalidad&quot;:IDModalidad&lt;/div&gt;&lt;div&gt;IdTipoCredito: IdTipo:Credito&lt;/div&gt;&lt;div&gt;&quot;TipoCredito&quot;:TipoCredito&lt;br&gt;&lt;/div&gt;&lt;div&gt;}, ...&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="12790" width="255" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="RdtmeXHbH3SucCd2qRv6-91" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RdtmeXHbH3SucCd2qRv6-91" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="-82.5" y="12690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-92" value="2.1.1 Crear TipoCredito (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
