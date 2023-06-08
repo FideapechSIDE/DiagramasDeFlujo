@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T18:45:10.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fxfoXLM54A9ujYudKh7R" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T19:05:14.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_L3NpxA5UjZqbxrtbZN4" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3687" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3744" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1518,7 +1518,7 @@
         <mxCell id="dpEYCnn7MjcAzg770tFh-6" value="&lt;div&gt;Crear Tabla Bitacora&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IIdUsuario str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Fecha date&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Modulo str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Accion str(20)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Referencia str(100)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="625" y="13960" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dpEYCnn7MjcAzg770tFh-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-90" y="13680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dpEYCnn7MjcAzg770tFh-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;0.3.1 Tablas Admin&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1" vertex="1" parent="1">
@@ -1527,7 +1527,7 @@
         <mxCell id="dpEYCnn7MjcAzg770tFh-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;0.3.2 Crear Validar Token Admin (utils.auth)&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="14370" width="530" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dpEYCnn7MjcAzg770tFh-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="-90" y="14380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dpEYCnn7MjcAzg770tFh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpEYCnn7MjcAzg770tFh-12" target="dpEYCnn7MjcAzg770tFh-13">
@@ -1691,17 +1691,18 @@
         <mxCell id="dpEYCnn7MjcAzg770tFh-82" value="&lt;div&gt;Crear Tabla Municipios&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdEstado int&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdMunicipio&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Municipio str(50)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="13732.5" width="265" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpEYCnn7MjcAzg770tFh-86" target="dpEYCnn7MjcAzg770tFh-88">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dpEYCnn7MjcAzg770tFh-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpEYCnn7MjcAzg770tFh-86" target="dpEYCnn7MjcAzg770tFh-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1292.5" y="13805" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dpEYCnn7MjcAzg770tFh-86" value="&lt;div&gt;Crear Tabla Colonias&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdMunicipio Int&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdColonia Int&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Colonia str(80)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;(No lleva id estado porque solo tendrá las de chihuahua)&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="947.5" y="13732.5" width="265" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpEYCnn7MjcAzg770tFh-88" target="dpEYCnn7MjcAzg770tFh-90">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-88" value="&lt;div&gt;Crear Tabla Colonias&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdMunicipio Int&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdColonia Int&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Colonia str(80)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;CP&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1292.5" y="13732.5" width="265" height="145" as="geometry" />
+        <mxCell id="dpEYCnn7MjcAzg770tFh-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="dpEYCnn7MjcAzg770tFh-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1425" y="13877.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dpEYCnn7MjcAzg770tFh-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpEYCnn7MjcAzg770tFh-90" target="dpEYCnn7MjcAzg770tFh-92">
           <mxGeometry relative="1" as="geometry" />
