@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T16:35:23.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="KWb25og8PN9-y_jnbSu9" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T16:38:35.319Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="dyFiTvDwUZd0Vuifn4Ze" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="4160" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3301" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1509,8 +1509,14 @@
         <mxCell id="dpEYCnn7MjcAzg770tFh-2" value="0.3 Tablas Admin" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="13590" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-3" value="&lt;div&gt;Crear Tabla AdminAuth&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IIdUsuario str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Email (str(50))&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Contrasena (str(150))&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Nombre (str40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Apellido (str40)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="13720" width="240" height="240" as="geometry" />
+        <mxCell id="dpEYCnn7MjcAzg770tFh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dpEYCnn7MjcAzg770tFh-3" target="dpEYCnn7MjcAzg770tFh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpEYCnn7MjcAzg770tFh-3" value="&lt;div&gt;Crear Tabla AdminAuth&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IIdUsuario str(40)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="13720" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dpEYCnn7MjcAzg770tFh-6" value="&lt;div&gt;Crear Tabla Bitacora&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IIdUsuario str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Fecha date&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Modulo str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Accion str(20)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Referencia str(100)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="315" y="13700" width="210" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
