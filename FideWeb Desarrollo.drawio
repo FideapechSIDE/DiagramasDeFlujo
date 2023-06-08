@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T15:27:14.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="HMwiqMu1ENAErtX4EB_K" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T16:35:23.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="KWb25og8PN9-y_jnbSu9" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="6234" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4160" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1219,37 +1219,37 @@
           <mxGeometry x="-87.5" y="12240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-81" value="2.1.7 Obtener Condiciones Modalidades (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="50" y="12765" width="580" height="30" as="geometry" />
+          <mxGeometry x="50" y="12695" width="580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RdtmeXHbH3SucCd2qRv6-83" target="RdtmeXHbH3SucCd2qRv6-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-83" value="&lt;div&gt;Crear petición Get&lt;/div&gt;&lt;div&gt;/api/modalidades/condiciones&lt;/div&gt;&lt;div&gt;Recibes&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdModalidad&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="5" y="12850" width="200" height="200" as="geometry" />
+          <mxGeometry x="5" y="12780" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RdtmeXHbH3SucCd2qRv6-85" target="RdtmeXHbH3SucCd2qRv6-87" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-85" value="Buscar en la BD Modalidad_Condiciones todos los registros correspondientes al IdModalidad" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="12920" width="160" height="120" as="geometry" />
+          <mxGeometry x="270" y="12850" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RdtmeXHbH3SucCd2qRv6-87" target="RdtmeXHbH3SucCd2qRv6-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-87" value="Parsear Filas" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="12950" width="120" height="60" as="geometry" />
+          <mxGeometry x="545" y="12880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RdtmeXHbH3SucCd2qRv6-89" target="RdtmeXHbH3SucCd2qRv6-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-89" value="crear lista con las fitlas parseadas" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="745" y="12950" width="120" height="60" as="geometry" />
+          <mxGeometry x="745" y="12880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-90" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;{&quot;modalidades&quot;: [&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;{&quot;modalidad&quot;:Modalidad,&lt;/div&gt;&lt;div&gt;&quot;IdModalidad&quot;:IDModalidad&lt;/div&gt;&lt;div&gt;IdTipoCredito: IdTipo:Credito&lt;/div&gt;&lt;div&gt;&quot;TipoCredito&quot;:TipoCredito&lt;br&gt;&lt;/div&gt;&lt;div&gt;}, ...&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;]&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="12860" width="255" height="240" as="geometry" />
+          <mxGeometry x="970" y="12790" width="255" height="240" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-91" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-82.5" y="12760" width="80" height="80" as="geometry" />
+          <mxGeometry x="-82.5" y="12690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-92" value="2.1.1 Crear TipoCredito (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="47.5" y="9565" width="400" height="30" as="geometry" />
@@ -1474,37 +1474,43 @@
           <mxGeometry x="1275" y="12012.5" width="155" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-165" value="2.1.7 Obtener Condiciones Modalidad (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="50" y="13085" width="540" height="30" as="geometry" />
+          <mxGeometry x="47.5" y="13135" width="540" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RdtmeXHbH3SucCd2qRv6-167" target="RdtmeXHbH3SucCd2qRv6-169" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-167" value="&lt;div&gt;Crear petición Get&lt;/div&gt;&lt;div&gt;/api/modalidades/condiciones&lt;/div&gt;&lt;div&gt;Recibes&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdModalidad&lt;/li&gt;&lt;li&gt;IdTipoCredito&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="5" y="13170" width="200" height="200" as="geometry" />
+          <mxGeometry x="2.5" y="13220" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RdtmeXHbH3SucCd2qRv6-169" target="RdtmeXHbH3SucCd2qRv6-171" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-169" value="Buscar en la BD Modalidad_Condiciones el registro correspondiente al IdModalidad e IdTipoCredito" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="13240" width="160" height="120" as="geometry" />
+          <mxGeometry x="267.5" y="13290" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-170" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RdtmeXHbH3SucCd2qRv6-171" target="RdtmeXHbH3SucCd2qRv6-173" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-171" value="Parsear Filas" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="13270" width="120" height="60" as="geometry" />
+          <mxGeometry x="542.5" y="13320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RdtmeXHbH3SucCd2qRv6-173" target="RdtmeXHbH3SucCd2qRv6-174" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-173" value="&lt;div&gt;crear json&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;{&quot;condiciones&quot;: &lt;br&gt;&lt;/div&gt;&lt;div&gt;{&quot;IdModalidad&quot;: IDModalidad,&lt;/div&gt;&lt;div&gt;&quot;IdTipoCredito&quot;:IdTipoCredito,&lt;/div&gt;&lt;div&gt;GraciaMin : GraciaMin,&lt;/div&gt;&lt;div&gt;&quot;GraciaMax&quot;:GraciaMax&lt;/div&gt;&lt;div&gt;PlazoMin:PlazoMin&lt;/div&gt;&lt;div&gt;PlzaoMax:PlazoMax&lt;/div&gt;&lt;div&gt;MontoMin:MontoMin,&lt;/div&gt;&lt;div&gt;MontoMax:MontoMax&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="13195" width="215" height="210" as="geometry" />
+          <mxGeometry x="747.5" y="13245" width="215" height="210" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-174" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;json&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="1055" y="13205" width="245" height="190" as="geometry" />
+          <mxGeometry x="1052.5" y="13255" width="245" height="190" as="geometry" />
         </mxCell>
         <mxCell id="RdtmeXHbH3SucCd2qRv6-175" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-82.5" y="13080" width="80" height="80" as="geometry" />
+          <mxGeometry x="-85" y="13130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dpEYCnn7MjcAzg770tFh-2" value="0.3 Tablas Admin" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="20" y="13590" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpEYCnn7MjcAzg770tFh-3" value="&lt;div&gt;Crear Tabla AdminAuth&lt;/div&gt;&lt;div&gt;&amp;nbsp;con los siguientes campos:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IIdUsuario str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Email (str(50))&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Contrasena (str(150))&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Nombre (str40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Apellido (str40)&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="13720" width="240" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
