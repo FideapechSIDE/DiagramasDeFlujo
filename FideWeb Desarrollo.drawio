@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T20:15:01.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="_L5c5496ehzZ-0LaFk7O" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T21:05:20.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="4afEHof6L0VitVB-RXoc" version="21.3.8" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="4623" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6234" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2062,22 +2062,22 @@
           <mxGeometry x="245" y="18848" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-27" value="5 Crear Solicitudes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2467.5" y="3870" width="400" height="30" as="geometry" />
+          <mxGeometry x="-2450" y="4890" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-28" value="5.1 Crear Solicitud" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-2467.5" y="3940" width="280" height="30" as="geometry" />
+          <mxGeometry x="-2450" y="4960" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-30" target="rHtUF3G5P1tsWjQ6eSWB-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-30" value="&lt;div&gt;El usuaio accede al panel principal y selecciona crear nueva solicitud&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-2497.5" y="3995" width="145" height="145" as="geometry" />
+          <mxGeometry x="-2480" y="5015" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-45" target="rHtUF3G5P1tsWjQ6eSWB-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-45" value="Verificamos que el usuario haya llenado su información personal " style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2260" y="4037.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2242.5" y="5057.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-52" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-47" target="rHtUF3G5P1tsWjQ6eSWB-51">
           <mxGeometry relative="1" as="geometry" />
@@ -2086,16 +2086,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-47" value="El usuario completo este paso?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="4027.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="-2022.5" y="5047.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-51" value="Le informamos que no puede iniciar una solicitud sin llenar su información personal y lo redirigimos al formulario para hacerlo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1880" y="3981.25" width="300" height="172.5" as="geometry" />
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-51" value="&lt;div&gt;Le informamos que no puede iniciar una solicitud sin llenar su información personal y lo redirigimos al formulario para hacerlo&lt;/div&gt;&lt;div&gt;vista 4.1&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1862.5" y="5001.25" width="300" height="172.5" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-53" target="rHtUF3G5P1tsWjQ6eSWB-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-53" value="&lt;div&gt;Le preguntamos al usuario que personalidad jurídica tiene&lt;br&gt;&lt;/div&gt;&lt;div&gt;(vissta 5..1.1)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2060" y="4180" width="120" height="110" as="geometry" />
+          <mxGeometry x="-2042.5" y="5200" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-76" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-73" target="rHtUF3G5P1tsWjQ6eSWB-75">
           <mxGeometry relative="1" as="geometry" />
@@ -2103,18 +2103,18 @@
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-83" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-73" target="rHtUF3G5P1tsWjQ6eSWB-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-2000" y="4723" />
+              <mxPoint x="-1982.5" y="5743" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-73" value="Es persona Física?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="4385" width="80" height="80" as="geometry" />
+          <mxGeometry x="-2022.5" y="5405" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-75" target="rHtUF3G5P1tsWjQ6eSWB-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-75" value="&lt;div&gt;Le preguntamos si tiene actividad empresarial&lt;/div&gt;&lt;div&gt;vista 5.1.2&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1795" y="4395" width="145" height="60" as="geometry" />
+          <mxGeometry x="-1777.5" y="5415" width="145" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-80" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-77" target="rHtUF3G5P1tsWjQ6eSWB-79">
           <mxGeometry relative="1" as="geometry" />
@@ -2123,13 +2123,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-77" value="Tiene Actividad Empresarial" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1763.75" y="4530" width="82.5" height="80" as="geometry" />
+          <mxGeometry x="-1746.25" y="5550" width="82.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-79" target="rHtUF3G5P1tsWjQ6eSWB-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-79" value="Le preguntamos cuantos años de antiguedad tiene con su actividad económica" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1806.25" y="4670" width="167.5" height="125" as="geometry" />
+          <mxGeometry x="-1788.75" y="5690" width="167.5" height="125" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-88" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-81" target="rHtUF3G5P1tsWjQ6eSWB-86">
           <mxGeometry relative="1" as="geometry" />
@@ -2137,22 +2137,87 @@
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-89" value="SI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-81" target="rHtUF3G5P1tsWjQ6eSWB-86">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1722" y="5000" />
-              <mxPoint x="-1360" y="5000" />
+              <mxPoint x="-1704.5" y="6020" />
+              <mxPoint x="-1342.5" y="6020" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-81" value="Tiene más de 12 meses?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1762.5" y="4860" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1745" y="5880" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-86" target="rHtUF3G5P1tsWjQ6eSWB-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-86" value="Enviamos información recolectada al servidor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1420" y="4880" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1402.5" y="5900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-90" value="Informamos al solicitante que se inicio una nueva solicitud y redirigimos a vista 5.2" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1200" y="4840" width="160" height="140" as="geometry" />
+          <mxGeometry x="-1182.5" y="5860" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-92" value="4 Completar Información de Perfil" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="3800" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-93" value="&lt;div&gt;4.1 Completar Perfil&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2480" y="3870" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-94" target="rHtUF3G5P1tsWjQ6eSWB-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-94" value="&lt;div&gt;El usuario accede a la vista completar perfil&lt;/div&gt;&lt;div&gt;vista 4.1&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2490" y="3940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-95" target="rHtUF3G5P1tsWjQ6eSWB-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-95" value="&lt;div&gt;EL usuario ingresa en el formulario &lt;br&gt;&lt;/div&gt;&lt;div&gt;PrimerNombre&lt;/div&gt;&lt;div&gt;SegundoNombre&lt;/div&gt;&lt;div&gt;PrimerApellid&lt;/div&gt;&lt;div&gt;SegundoApellido&lt;/div&gt;&lt;div&gt;Telefono&lt;/div&gt;&lt;div&gt;Celular &lt;br&gt;&lt;/div&gt;&lt;div&gt;Correo&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2300" y="3915" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-97" target="rHtUF3G5P1tsWjQ6eSWB-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-97" value="&lt;div&gt;EL usuario ingresa en el siguiente formulario &lt;br&gt;&lt;/div&gt;&lt;div&gt;CP&lt;/div&gt;&lt;div&gt;Municipio&lt;/div&gt;&lt;div&gt;Colonia&lt;/div&gt;&lt;div&gt;Estado&lt;/div&gt;&lt;div&gt;Domicilio&lt;br&gt;&lt;/div&gt;&lt;div&gt;ArraigoAños&lt;/div&gt;&lt;div&gt;ArraigoMeses&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1900" y="3915" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-99" target="rHtUF3G5P1tsWjQ6eSWB-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-99" value="&lt;div&gt;EL usuario ingresa en el siguiente formulario &lt;br&gt;&lt;/div&gt;&lt;div&gt;EstadoNacimiento&lt;br&gt;&lt;/div&gt;&lt;div&gt;MunicipioNacimiento&lt;/div&gt;&lt;div&gt;FechaNacimiento&lt;br&gt;&lt;/div&gt;&lt;div&gt;GradoEstudios&lt;/div&gt;&lt;div&gt;NumeroDependientesEconomicos&lt;br&gt;&lt;/div&gt;&lt;div&gt;EstadoCivil&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="3915" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-104" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-101" target="rHtUF3G5P1tsWjQ6eSWB-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-107" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.029;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-101" target="rHtUF3G5P1tsWjQ6eSWB-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1062" y="4240" />
+              <mxPoint x="-901" y="4240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-101" value="El usuario está casado por sociedad conyugal" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1102.5" y="3940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-103" target="rHtUF3G5P1tsWjQ6eSWB-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-103" value="&lt;div&gt;El usuario debe ingresar el siguiente formulario&lt;/div&gt;&lt;div&gt;Conyuge&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PrimerNombre&lt;/div&gt;&lt;div&gt;SegundoNombre&lt;/div&gt;&lt;div&gt;PrimerApellido&lt;/div&gt;&lt;div&gt;SegundoApellido&lt;/div&gt;&lt;div&gt;Ocupacion&lt;/div&gt;&lt;div&gt;RFC&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="3895" width="322.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-105" target="rHtUF3G5P1tsWjQ6eSWB-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-105" value="&lt;div&gt;El usuario debe ingresar el siguiente formulario&lt;/div&gt;&lt;div&gt;Redes Sociales (Este es opcional poner un boton de omitir)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Facebook&lt;br&gt;&lt;/div&gt;&lt;div&gt;Instagram&lt;/div&gt;&lt;div&gt;Twitter&lt;/div&gt;&lt;div&gt;Yuoutube&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="4145" width="322.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-108" target="rHtUF3G5P1tsWjQ6eSWB-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-108" value="Envíamos la información al servidor" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-808.75" y="4370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-110" value="Informamos que su perfil fue guardado con éxito y redirigimos al panel principal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-834.37" y="4500" width="171.25" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
