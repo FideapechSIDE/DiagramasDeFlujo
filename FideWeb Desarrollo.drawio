@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T21:05:20.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="4afEHof6L0VitVB-RXoc" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T21:57:10.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="oorvjWVTV7ijYJQm-0hA" version="21.3.8" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="6234" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="8077" dy="2977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2218,6 +2218,12 @@
         </mxCell>
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-110" value="Informamos que su perfil fue guardado con éxito y redirigimos al panel principal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-834.37" y="4500" width="171.25" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-112" value="5.1.1 Crear Solicitud" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2450" y="6090" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-113" value="&lt;div&gt;El usuaio accede a la vista 5.2&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-2445" y="6192.5" width="145" height="145" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
