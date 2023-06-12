@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T17:51:09.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Y6CRMfSe342ETkSvZ-0F" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T18:43:53.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="uozChqeMheGH1SvUScG1" version="21.3.8" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
     <mxGraphModel dx="4623" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2468,8 +2468,8 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-113" value="5.2 Crear Datos de la Empresa" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=40;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="47.5" y="19440" width="622.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-114" value="5.2.1 Crear DatosEmpresa(Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="185" y="19540" width="400" height="30" as="geometry" />
+        <mxCell id="nG91z5L-8xRT3dIath2g-114" value="5.2.1 Crear/Actualizar Datos Empresa(Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="185" y="19540" width="515" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-115" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="72.5" y="19550" width="80" height="80" as="geometry" />
@@ -2486,8 +2486,215 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-117" value="Validar token del header" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="19935" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-119" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nG91z5L-8xRT3dIath2g-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-119" target="nG91z5L-8xRT3dIath2g-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-119" value="Consultar en la bd Tabla Solicitudes el IDSolcitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="19935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-126" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-123" target="nG91z5L-8xRT3dIath2g-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-123" target="nG91z5L-8xRT3dIath2g-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-123" value="El IdSIolicitante corresponde con el del token?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="19925" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-125" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;201&lt;/div&gt;&lt;div&gt;No estas autorizado para acceder a esta información&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="985" y="20080" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-127" target="nG91z5L-8xRT3dIath2g-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-127" value="Crear Regustrio TablaDatosEmpresa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="19940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-129" target="nG91z5L-8xRT3dIath2g-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-129" value="Commit a laa DB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="19940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-132" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;DatosActualizados Correctamente&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="20090" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-134" target="nG91z5L-8xRT3dIath2g-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-134" value="Consutlar en&amp;nbsp; bd Tabla DatosEmpresa un registro con IdSolicitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1177.5" y="19935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-138" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-136" target="nG91z5L-8xRT3dIath2g-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-136" target="nG91z5L-8xRT3dIath2g-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-136" value="El registro existe?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1397.5" y="19925" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-139" target="nG91z5L-8xRT3dIath2g-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1800" y="20125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-139" value="Actualizar el registro" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1377.5" y="20095" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-142" value="5.2.1 Crear/Actualizar Datos Empresa (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="20380" width="515" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-143" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="20390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-145" target="nG91z5L-8xRT3dIath2g-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-145" value="&lt;div&gt;Crear petición Post&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-empresa&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Nombre str(150)&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Telefono (str(15)&lt;/li&gt;&lt;li&gt;Celular (str(15)&lt;/li&gt;&lt;li&gt;CorreoElectronico (str(50)&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdColonia&lt;/u&gt; int&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdEstado&lt;/u&gt; Int&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdMunicipio&lt;/u&gt; Int&lt;/li&gt;&lt;li&gt;CP str(8)&lt;br&gt;&lt;/li&gt;&lt;li&gt;ArraigoAnos Int&lt;/li&gt;&lt;li&gt;ArraigoMeses Int&lt;/li&gt;&lt;li&gt;Domicilio str(100)&lt;/li&gt;&lt;li&gt;EntreCalles str(100)&lt;/li&gt;&lt;li&gt;RFC str(13)&lt;/li&gt;&lt;li&gt;PaginaWeb str(60)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Instagram str(30)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Twitter str(30)&lt;/li&gt;&lt;li&gt;Facebook str(30)&lt;/li&gt;&lt;li&gt;Youtube str(30)&lt;/li&gt;&lt;li&gt;NombreComercial str(100)&lt;/li&gt;&lt;li&gt;ActividadEspecifica str(100)&lt;/li&gt;&lt;li&gt;GiroEmpresa str(50)&lt;/li&gt;&lt;li&gt;ExperienciaMeses Int&lt;/li&gt;&lt;li&gt;ExperienciaAnos Int&lt;/li&gt;&lt;li&gt;MujeresActuales Int&lt;/li&gt;&lt;li&gt;HombresActuales Int&lt;/li&gt;&lt;li&gt;SueldoActual float&lt;/li&gt;&lt;li&gt;MujeresAGenerar int&lt;/li&gt;&lt;li&gt;HombresAGenerar int&lt;/li&gt;&lt;li&gt;SueldoAGenerar Int&lt;/li&gt;&lt;li&gt;AltaHacienda date&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-52.5" y="20520" width="570" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-146" value="Es&amp;nbsp; vlaido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-147" target="nG91z5L-8xRT3dIath2g-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-147" value="Validar token del header" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="20775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-149" target="nG91z5L-8xRT3dIath2g-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-149" value="Consultar en la bd Tabla Solicitudes el IDSolcitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="872.5" y="20775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-150" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-152" target="nG91z5L-8xRT3dIath2g-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-152" target="nG91z5L-8xRT3dIath2g-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-152" value="El IdSIolicitante corresponde con el del token?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1092.5" y="20765" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-153" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;201&lt;/div&gt;&lt;div&gt;No estas autorizado para acceder a esta información&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1047.5" y="20920" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-155" target="nG91z5L-8xRT3dIath2g-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-155" value="&lt;div&gt;Crear Regustrio&amp;nbsp; &lt;br&gt;&lt;/div&gt;&lt;div&gt;Tabla Solicitudes_Empresa&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1632.5" y="20780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-157" target="nG91z5L-8xRT3dIath2g-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-157" value="Commit a laa DB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1832.5" y="20780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-158" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;DatosActualizados Correctamente&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1852.5" y="20930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-160" target="nG91z5L-8xRT3dIath2g-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-160" value="Consutlar en&amp;nbsp; bd Tabla Solicitudes_Empresa un registro con IdSolicitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="20775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-161" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-163" target="nG91z5L-8xRT3dIath2g-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-163" target="nG91z5L-8xRT3dIath2g-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-163" value="El registro existe?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="20765" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-165" target="nG91z5L-8xRT3dIath2g-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1862.5" y="20965" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-165" value="Actualizar el registro" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="20935" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-166" value="5.2.1 Crear/Actualizar DatosCredito Empresa (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="21180" width="572.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-167" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="21190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-169" target="nG91z5L-8xRT3dIath2g-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-169" value="&lt;div&gt;Crear petición Post&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-empresa&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Nombre str(150)&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Telefono (str(15)&lt;/li&gt;&lt;li&gt;Celular (str(15)&lt;/li&gt;&lt;li&gt;CorreoElectronico (str(50)&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdColonia&lt;/u&gt; int&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdEstado&lt;/u&gt; Int&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdMunicipio&lt;/u&gt; Int&lt;/li&gt;&lt;li&gt;CP str(8)&lt;br&gt;&lt;/li&gt;&lt;li&gt;ArraigoAnos Int&lt;/li&gt;&lt;li&gt;ArraigoMeses Int&lt;/li&gt;&lt;li&gt;Domicilio str(100)&lt;/li&gt;&lt;li&gt;EntreCalles str(100)&lt;/li&gt;&lt;li&gt;RFC str(13)&lt;/li&gt;&lt;li&gt;PaginaWeb str(60)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Instagram str(30)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Twitter str(30)&lt;/li&gt;&lt;li&gt;Facebook str(30)&lt;/li&gt;&lt;li&gt;Youtube str(30)&lt;/li&gt;&lt;li&gt;NombreComercial str(100)&lt;/li&gt;&lt;li&gt;ActividadEspecifica str(100)&lt;/li&gt;&lt;li&gt;GiroEmpresa str(50)&lt;/li&gt;&lt;li&gt;ExperienciaMeses Int&lt;/li&gt;&lt;li&gt;ExperienciaAnos Int&lt;/li&gt;&lt;li&gt;MujeresActuales Int&lt;/li&gt;&lt;li&gt;HombresActuales Int&lt;/li&gt;&lt;li&gt;SueldoActual float&lt;/li&gt;&lt;li&gt;MujeresAGenerar int&lt;/li&gt;&lt;li&gt;HombresAGenerar int&lt;/li&gt;&lt;li&gt;SueldoAGenerar Int&lt;/li&gt;&lt;li&gt;AltaHacienda date&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-42.5" y="21320" width="570" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-170" value="Es&amp;nbsp; vlaido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-171" target="nG91z5L-8xRT3dIath2g-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-171" value="Validar token del header" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="21575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-173" target="nG91z5L-8xRT3dIath2g-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-173" value="Consultar en la bd Tabla Solicitudes el IDSolcitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="882.5" y="21575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-174" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-176" target="nG91z5L-8xRT3dIath2g-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-176" target="nG91z5L-8xRT3dIath2g-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-176" value="El IdSIolicitante corresponde con el del token?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1102.5" y="21565" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-177" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;201&lt;/div&gt;&lt;div&gt;No estas autorizado para acceder a esta información&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1057.5" y="21720" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-179" target="nG91z5L-8xRT3dIath2g-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-179" value="Crear Regustrio TablaDatosEmpresa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1642.5" y="21580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-181" target="nG91z5L-8xRT3dIath2g-182">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-181" value="Commit a laa DB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1842.5" y="21580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-182" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;DatosActualizados Correctamente&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1862.5" y="21725" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-184" target="nG91z5L-8xRT3dIath2g-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-184" value="Consutlar en&amp;nbsp; bd Tabla DatosEmpresa un registro con IdSolicitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="21575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-185" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-187" target="nG91z5L-8xRT3dIath2g-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-187" target="nG91z5L-8xRT3dIath2g-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-187" value="El registro existe?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="21565" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-189" target="nG91z5L-8xRT3dIath2g-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1872" y="21780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-189" value="Actualizar el registro" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="21735" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
