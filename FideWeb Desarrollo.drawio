@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T21:27:52.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1UCp7tlZxSzs4AGcTE_9" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T21:48:50.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Shd5Ke-tDFuciNUdAlrB" version="21.3.7" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="4256" dy="1049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3744" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1875,10 +1875,10 @@
         <mxCell id="dpEYCnn7MjcAzg770tFh-158" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;Grado de Estudios modificado con éxito&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="17490" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-159" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dpEYCnn7MjcAzg770tFh-159" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="17200" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-160" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dpEYCnn7MjcAzg770tFh-160" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="17415" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dpEYCnn7MjcAzg770tFh-161" value="4.1.5 Obtener Grados de Estudio (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
@@ -1911,7 +1911,7 @@
         <mxCell id="dpEYCnn7MjcAzg770tFh-170" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;{&quot;gradosEstudio&quot;: [listaGradosEstudio]}&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1000" y="17740" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-171" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dpEYCnn7MjcAzg770tFh-171" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="17660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dpEYCnn7MjcAzg770tFh-172" value="4.1.6 Obtener Lista de Estados (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
@@ -1944,7 +1944,7 @@
         <mxCell id="dpEYCnn7MjcAzg770tFh-181" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;{&quot;estados&quot;: [listaEstados]}&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1002.5" y="17970" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-182" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dpEYCnn7MjcAzg770tFh-182" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="55" y="17890" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dpEYCnn7MjcAzg770tFh-183" value="4.1.7 Obtener Lista de Municipios (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
@@ -1977,7 +1977,7 @@
         <mxCell id="dpEYCnn7MjcAzg770tFh-192" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;{&quot;municipios&quot;: [listaMunicipioss]}&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="997.5" y="18210" width="155" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dpEYCnn7MjcAzg770tFh-193" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="dpEYCnn7MjcAzg770tFh-193" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="50" y="18130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dpEYCnn7MjcAzg770tFh-194" value="4.1.8 Obtener Colonias (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
