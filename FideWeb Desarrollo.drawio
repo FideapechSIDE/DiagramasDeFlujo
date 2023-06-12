@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T18:43:53.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="uozChqeMheGH1SvUScG1" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T18:49:29.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="_Q8Agq8975A9BH6NpFU_" version="21.3.8" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
     <mxGraphModel dx="4623" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2590,7 +2590,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-157" value="Commit a laa DB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1832.5" y="20780" width="120" height="60" as="geometry" />
+          <mxGeometry x="1632.5" y="20940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-158" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;DatosActualizados Correctamente&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1852.5" y="20930" width="80" height="80" as="geometry" />
@@ -2610,17 +2610,13 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-163" value="El registro existe?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1460" y="20765" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-165" target="nG91z5L-8xRT3dIath2g-158">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1862.5" y="20965" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="nG91z5L-8xRT3dIath2g-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-165" target="nG91z5L-8xRT3dIath2g-157">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-165" value="Actualizar el registro" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="20935" width="120" height="60" as="geometry" />
+          <mxGeometry x="1440" y="20940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-166" value="5.2.1 Crear/Actualizar DatosCredito Empresa (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="nG91z5L-8xRT3dIath2g-166" value="5.3.1 Crear/Actualizar&amp;nbsp; DatosCredito Empresa (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="257.5" y="21180" width="572.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-167" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2659,23 +2655,23 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-179" target="nG91z5L-8xRT3dIath2g-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-179" value="Crear Regustrio TablaDatosEmpresa" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nG91z5L-8xRT3dIath2g-179" value="ActualizarRegistros" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1642.5" y="21580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-181" target="nG91z5L-8xRT3dIath2g-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-181" value="Commit a laa DB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1842.5" y="21580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1785" y="21735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-182" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;DatosActualizados Correctamente&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1862.5" y="21725" width="80" height="80" as="geometry" />
+          <mxGeometry x="1995" y="21720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-184" target="nG91z5L-8xRT3dIath2g-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-184" value="Consutlar en&amp;nbsp; bd Tabla DatosEmpresa un registro con IdSolicitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="21575" width="120" height="60" as="geometry" />
+        <mxCell id="nG91z5L-8xRT3dIath2g-184" value="Consutlar (Join) en&amp;nbsp; bd Tablas SolicitudesCreditoAvio y SolicitudesCreditoRefaccionario con el IdSolicitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1227.5" y="21557.5" width="210" height="95" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-185" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-187" target="nG91z5L-8xRT3dIath2g-179">
           <mxGeometry relative="1" as="geometry" />
@@ -2686,14 +2682,10 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-187" value="El registro existe?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="21565" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.125;entryY=0.688;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-189" target="nG91z5L-8xRT3dIath2g-182">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1872" y="21780" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="nG91z5L-8xRT3dIath2g-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-189" target="nG91z5L-8xRT3dIath2g-181">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-189" value="Actualizar el registro" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nG91z5L-8xRT3dIath2g-189" value="Crear registros" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1450" y="21735" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
