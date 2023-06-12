@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T18:49:29.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="_Q8Agq8975A9BH6NpFU_" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T18:58:18.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="8SRa75WunYo3ButFvGlK" version="21.3.8" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="4623" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4501" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2616,29 +2616,29 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-165" value="Actualizar el registro" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="20940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-166" value="5.3.1 Crear/Actualizar&amp;nbsp; DatosCredito Empresa (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="257.5" y="21180" width="572.5" height="30" as="geometry" />
+        <mxCell id="nG91z5L-8xRT3dIath2g-166" value="5.3.1 Crear/Actualizar&amp;nbsp; DatosCredito (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="21740" width="572.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-167" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="145" y="21190" width="80" height="80" as="geometry" />
+          <mxGeometry x="35" y="21750" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-169" target="nG91z5L-8xRT3dIath2g-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-169" value="&lt;div&gt;Crear petición Post&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-empresa&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Nombre str(150)&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Telefono (str(15)&lt;/li&gt;&lt;li&gt;Celular (str(15)&lt;/li&gt;&lt;li&gt;CorreoElectronico (str(50)&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdColonia&lt;/u&gt; int&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdEstado&lt;/u&gt; Int&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdMunicipio&lt;/u&gt; Int&lt;/li&gt;&lt;li&gt;CP str(8)&lt;br&gt;&lt;/li&gt;&lt;li&gt;ArraigoAnos Int&lt;/li&gt;&lt;li&gt;ArraigoMeses Int&lt;/li&gt;&lt;li&gt;Domicilio str(100)&lt;/li&gt;&lt;li&gt;EntreCalles str(100)&lt;/li&gt;&lt;li&gt;RFC str(13)&lt;/li&gt;&lt;li&gt;PaginaWeb str(60)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Instagram str(30)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Twitter str(30)&lt;/li&gt;&lt;li&gt;Facebook str(30)&lt;/li&gt;&lt;li&gt;Youtube str(30)&lt;/li&gt;&lt;li&gt;NombreComercial str(100)&lt;/li&gt;&lt;li&gt;ActividadEspecifica str(100)&lt;/li&gt;&lt;li&gt;GiroEmpresa str(50)&lt;/li&gt;&lt;li&gt;ExperienciaMeses Int&lt;/li&gt;&lt;li&gt;ExperienciaAnos Int&lt;/li&gt;&lt;li&gt;MujeresActuales Int&lt;/li&gt;&lt;li&gt;HombresActuales Int&lt;/li&gt;&lt;li&gt;SueldoActual float&lt;/li&gt;&lt;li&gt;MujeresAGenerar int&lt;/li&gt;&lt;li&gt;HombresAGenerar int&lt;/li&gt;&lt;li&gt;SueldoAGenerar Int&lt;/li&gt;&lt;li&gt;AltaHacienda date&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-42.5" y="21320" width="570" height="570" as="geometry" />
+        <mxCell id="nG91z5L-8xRT3dIath2g-169" value="&lt;div&gt;Crear petición Post&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-credito&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;PlazoAvio&lt;/li&gt;&lt;li&gt;GraciaAvio&lt;/li&gt;&lt;li&gt;M;ontoAvio&lt;/li&gt;&lt;li&gt;PlazoRefaccionario&lt;/li&gt;&lt;li&gt;GraciaRefaccionario&lt;/li&gt;&lt;li&gt;MontoRefaccionario&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="43.75" y="21920" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-170" value="Es&amp;nbsp; vlaido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-171" target="nG91z5L-8xRT3dIath2g-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-171" value="Validar token del header" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="665" y="21575" width="120" height="60" as="geometry" />
+          <mxGeometry x="546.25" y="22005" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-172" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-173" target="nG91z5L-8xRT3dIath2g-176">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-173" value="Consultar en la bd Tabla Solicitudes el IDSolcitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="882.5" y="21575" width="120" height="60" as="geometry" />
+          <mxGeometry x="763.75" y="22005" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-174" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-176" target="nG91z5L-8xRT3dIath2g-177">
           <mxGeometry relative="1" as="geometry" />
@@ -2647,31 +2647,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-176" value="El IdSIolicitante corresponde con el del token?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1102.5" y="21565" width="80" height="80" as="geometry" />
+          <mxGeometry x="983.75" y="21995" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-177" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;201&lt;/div&gt;&lt;div&gt;No estas autorizado para acceder a esta información&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1057.5" y="21720" width="170" height="80" as="geometry" />
+          <mxGeometry x="938.75" y="22150" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-179" target="nG91z5L-8xRT3dIath2g-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-179" value="ActualizarRegistros" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1642.5" y="21580" width="120" height="60" as="geometry" />
+          <mxGeometry x="1523.75" y="22010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-181" target="nG91z5L-8xRT3dIath2g-182">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-181" value="Commit a laa DB" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1785" y="21735" width="120" height="60" as="geometry" />
+          <mxGeometry x="1666.25" y="22165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-182" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;DatosActualizados Correctamente&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1995" y="21720" width="80" height="80" as="geometry" />
+          <mxGeometry x="1876.25" y="22150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-183" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-184" target="nG91z5L-8xRT3dIath2g-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-184" value="Consutlar (Join) en&amp;nbsp; bd Tablas SolicitudesCreditoAvio y SolicitudesCreditoRefaccionario con el IdSolicitud" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1227.5" y="21557.5" width="210" height="95" as="geometry" />
+          <mxGeometry x="1108.75" y="21987.5" width="210" height="95" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-185" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-187" target="nG91z5L-8xRT3dIath2g-179">
           <mxGeometry relative="1" as="geometry" />
@@ -2680,13 +2680,107 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-187" value="El registro existe?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="21565" width="80" height="80" as="geometry" />
+          <mxGeometry x="1351.25" y="21995" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-189" target="nG91z5L-8xRT3dIath2g-181">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-189" value="Crear registros" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="21735" width="120" height="60" as="geometry" />
+          <mxGeometry x="1331.25" y="22165" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-192" value="5.2.2 Obtener Datos Empresa (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="185.25" y="21140" width="515" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-193" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="72.75" y="21150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-195" target="nG91z5L-8xRT3dIath2g-197">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-195" value="&lt;div&gt;Crear petición get&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-empresa&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="125" y="21290" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-196" value="Es&amp;nbsp; vlaido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-197" target="nG91z5L-8xRT3dIath2g-198">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="21400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-197" value="Validar token del header" style="whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+          <mxGeometry x="491.25" y="21370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-210" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-198" target="nG91z5L-8xRT3dIath2g-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-198" value="&lt;br&gt;Consutlar (Join) en&amp;nbsp; bd Tablas Solicitudes y&amp;nbsp; SolicitudesEmpresas con el IdSolicitud&lt;br&gt;" style="whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="21350" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-205" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-207" target="nG91z5L-8xRT3dIath2g-208">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-206" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-207" target="nG91z5L-8xRT3dIath2g-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-207" value="El IdSIolicitante corresponde con el del token?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="21367.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-208" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;201&lt;/div&gt;&lt;div&gt;No estas autorizado para acceder a esta información&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="985" y="21522.5" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-212" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-209" target="nG91z5L-8xRT3dIath2g-211">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-209" value="Crear json con la información de la tabla" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="21360" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-211" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;json&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="21367.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-226" value="5.3.2 Obtener Datos Credito(Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="188.88" y="22350" width="515" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-227" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="76.38" y="22360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-229" target="nG91z5L-8xRT3dIath2g-231">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-229" value="&lt;div&gt;Crear petición get&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-credito&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="128.63" y="22500" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-230" value="Es&amp;nbsp; vlaido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-231" target="nG91z5L-8xRT3dIath2g-233">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753.63" y="22610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-231" value="Validar token del header" style="whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+          <mxGeometry x="494.88" y="22580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-232" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-233" target="nG91z5L-8xRT3dIath2g-236">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-233" value="&lt;br&gt;Consutlar (Join) en&amp;nbsp; bd Tablas Solicitudes, SolicitudesCreditoAvio y&amp;nbsp; SolicitudesCreditoRefaccionariocon el IdSolicitud" style="whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+          <mxGeometry x="743.63" y="22560" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-234" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-236" target="nG91z5L-8xRT3dIath2g-237">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-236" target="nG91z5L-8xRT3dIath2g-239">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-236" value="El IdSIolicitante corresponde con el del token?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1033.63" y="22577.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-237" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;201&lt;/div&gt;&lt;div&gt;No estas autorizado para acceder a esta información&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="988.63" y="22732.5" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-239" target="nG91z5L-8xRT3dIath2g-240">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-239" value="&lt;div&gt;Crear json con la información de la tablas tablas y crear el siguietne json&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;creditos&quot; : {&lt;/div&gt;&lt;div&gt;&quot;avio&quot; : jsonAvios,&lt;/div&gt;&lt;div&gt;&quot;refaccionario&quot; : jsonRefaccionario&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="22532.5" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-240" value="&lt;div&gt;makeresponse&lt;/div&gt;&lt;div&gt;200&lt;/div&gt;&lt;div&gt;json&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1513.63" y="22577.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
