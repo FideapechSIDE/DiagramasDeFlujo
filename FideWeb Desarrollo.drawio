@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T15:20:26.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="e2A8fpxYRzkM1mH01h7L" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T16:39:19.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="hTUVSHaRKmjIpEGBPsNb" version="21.3.8" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="5313" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4129" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2219,7 +2219,7 @@
         <mxCell id="rHtUF3G5P1tsWjQ6eSWB-110" value="Informamos que su perfil fue guardado con éxito y redirigimos al panel principal" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-834.37" y="4500" width="171.25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-112" value="5.1.1 Llenar datos comerciales&amp;nbsp; de la empresa o del solicitante" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="rHtUF3G5P1tsWjQ6eSWB-112" value="5.2 Llenar datos comerciales&amp;nbsp; de la empresa o del solicitante" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2430" y="6310" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rHtUF3G5P1tsWjQ6eSWB-113" target="nG91z5L-8xRT3dIath2g-3">
@@ -2291,6 +2291,155 @@
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-25" value="Informamos a l usuario que sus datos fueron guardados y redirigimos ala siuguiente vista 5.3" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1842.49" y="7900" width="254.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-27" value="5.3 Llenar datos del crédito" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="8080" width="660" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-29" target="nG91z5L-8xRT3dIath2g-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-29" value="&lt;div&gt;El usuaio accede a la vista 5.3&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-2450" y="8182.5" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-33" target="nG91z5L-8xRT3dIath2g-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-33" value="Veríficamos la información cargada previamente" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2250" y="8225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-37" target="nG91z5L-8xRT3dIath2g-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-37" value="&lt;div&gt;formulario 5.3.1&lt;/div&gt;&lt;div&gt;El usuario deberá escoger el destino del crédito&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Avío&lt;/li&gt;&lt;li&gt;Refaccionario&lt;/li&gt;&lt;li&gt;Ambos&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2080" y="8183.75" width="310" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-47" target="nG91z5L-8xRT3dIath2g-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-47" value="Dependiendo la opción escogida deberá llenar el formulario correspondiente" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1725" y="8202.5" width="120" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-49" target="nG91z5L-8xRT3dIath2g-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-49" value="&lt;div&gt;Cada formulario (Avío, refaccionario) tendrá los siguientes campos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Plazo (slider)&lt;/div&gt;&lt;div&gt;Gracia (slider)&lt;/div&gt;&lt;div&gt;Monto (slider)&lt;/div&gt;&lt;div&gt;Modalidad&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dependiendo la información cargada anteriormente se toparán los rangos de los campos anteriores, aasí como las modalidades a las que pueda aspirar con las condiciones cargadas&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1830" y="8380" width="335" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-51" value="&lt;div&gt;Informamos al&amp;nbsp; usuario que los datos fueron cargados correctamente y lo redirigimos a la siguietne vista&lt;/div&gt;&lt;div&gt;5.4&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1793.75" y="8690" width="262.5" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-53" value="5.4 Llenar datos de la garantía" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2437.5" y="8842.5" width="347.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-55" target="nG91z5L-8xRT3dIath2g-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-55" value="&lt;div&gt;El usuaio accede a la vista 5.4&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-2432.5" y="8945" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-57" target="nG91z5L-8xRT3dIath2g-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-57" value="Veríficamos la información cargada previamente" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2232.5" y="8987.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-58" target="nG91z5L-8xRT3dIath2g-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-58" value="&lt;div&gt;Formulario 5.4.0&lt;/div&gt;&lt;div&gt;El usuario escoge entre 2 opciones&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Hipotecaria&lt;/li&gt;&lt;li&gt;Prendaria&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;El usuario podrá ver en tiempo reaal el monto de la garnatía necesaria para cubrir su préstamo, así como estarán validadas las opciones con respecto de los montos que solicitó&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2057.5" y="8911.25" width="302.5" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-67" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-62" target="nG91z5L-8xRT3dIath2g-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-69" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-62" target="nG91z5L-8xRT3dIath2g-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-62" value="El usuario escogío garantía Hipotecaria?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1663.75" y="8977.5" width="93.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-66" target="nG91z5L-8xRT3dIath2g-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-66" value="&lt;div&gt;Formulario 5.4.1 El usuario deberá llenar los siguientes campos&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Tipo Inmueble&lt;/li&gt;&lt;li&gt;Superficie Aporoximada&lt;br&gt;&lt;/li&gt;&lt;li&gt;MontoAproximado&lt;/li&gt;&lt;li&gt;Es propio?&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1422" y="8946.25" width="293.13" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-68" target="nG91z5L-8xRT3dIath2g-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-68" value="&lt;div&gt;Formulario 5.4.2 El usuario deberá llenar los siguientes campos&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;ModeloVehículo&lt;/li&gt;&lt;li&gt;MarcaVehiculo&lt;br&gt;&lt;/li&gt;&lt;li&gt;AñoVehiculo&lt;/li&gt;&lt;li&gt;ValorAproximado&lt;br&gt;&lt;/li&gt;&lt;li&gt;Es del propio?&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1763.44" y="9160" width="293.13" height="142.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-70" target="nG91z5L-8xRT3dIath2g-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-70" target="nG91z5L-8xRT3dIath2g-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-70" value="La garantía es propia" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1314.995" y="9191.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-76" value="Informamos a l usuario que sus datos fueron guardados y redirigimos ala siuguiente vista 5.5" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1402.93" y="9460" width="254.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-77" target="nG91z5L-8xRT3dIath2g-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-77" value="&lt;div&gt;Formulario 5.4.3 El usuario deberá llenar los siguientes campos sobre el aval&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;PrimerNombre&lt;/li&gt;&lt;li&gt;SegundoNombre&lt;/li&gt;&lt;li&gt;PrimerApellido&lt;/li&gt;&lt;li&gt;SegundoApellido&lt;/li&gt;&lt;li&gt;Telefono&lt;/li&gt;&lt;li&gt;Celular&lt;/li&gt;&lt;li&gt;Correo Electrónico&lt;/li&gt;&lt;li&gt;Domicilio&lt;/li&gt;&lt;li&gt;Cp&lt;/li&gt;&lt;li&gt;Colonia&lt;/li&gt;&lt;li&gt;Municipio&lt;/li&gt;&lt;li&gt;Estado&lt;/li&gt;&lt;li&gt;MunicipioNacimiento&lt;/li&gt;&lt;li&gt;EstadoMunicipio&lt;/li&gt;&lt;li&gt;FechaNacimiento&lt;/li&gt;&lt;li&gt;RFC&lt;/li&gt;&lt;li&gt;EstadoCivil&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="9064.689999999999" width="385.01" height="333.12" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-79" target="nG91z5L-8xRT3dIath2g-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-79" value="&lt;div&gt;Formulario 5.4.4 El usuario deberá llenar los siguientes campos sobre el conyuge del aval&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;PrimerNombre &lt;br&gt;&lt;/li&gt;&lt;li&gt;SegundoNombre &lt;br&gt;&lt;/li&gt;&lt;li&gt;PrimerApellido &lt;br&gt;&lt;/li&gt;&lt;li&gt;SegundoApellido &lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdMunicipioNacimiento&lt;/u&gt; &lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdEstadoNacimiento&lt;/u&gt; &lt;br&gt;&lt;/li&gt;&lt;li&gt;FechaNacimiento &lt;br&gt;&lt;/li&gt;&lt;li&gt;Celular &lt;br&gt;&lt;/li&gt;&lt;li&gt;Domicilio &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="9650" width="385.01" height="218.12" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-83" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-81" target="nG91z5L-8xRT3dIath2g-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-81" target="nG91z5L-8xRT3dIath2g-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-81" value="El aval es casado?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-937.495" y="9459.999999999998" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-87" value="5.5 Llenar datos de referencia" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-2450" y="9965" width="347.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-88" target="nG91z5L-8xRT3dIath2g-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-88" value="&lt;div&gt;El usuaio accede a la vista 5.4&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-2470" y="10055" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-89" target="nG91z5L-8xRT3dIath2g-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-89" value="&lt;div&gt;Formulario 5.5.0&lt;/div&gt;&lt;div&gt;El usuaario inresa la siguiente información sobre las referencias&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;PrimerNombre &lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;SegundoNombre &lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;PrimerApellido &lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;SegundoApellido&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Telefono &lt;br&gt;&lt;/li&gt;&lt;li&gt;Celular &lt;br&gt;&lt;/li&gt;&lt;li&gt;Calle &lt;br&gt;&lt;/li&gt;&lt;li&gt;IdColonia &lt;br&gt;&lt;/li&gt;&lt;li&gt;IdMunicipio &lt;br&gt;&lt;/li&gt;&lt;li&gt;IdEstado &lt;br&gt;&lt;/li&gt;&lt;li&gt;CP &lt;br&gt;&lt;/li&gt;&lt;li&gt;ArraigoMesess &lt;br&gt;&lt;/li&gt;&lt;li&gt;ArraigoAnos &lt;br&gt;&lt;/li&gt;&lt;li&gt;RelacionSolicitante &lt;br&gt;&lt;/li&gt;&lt;li&gt;TiempoRelacionMeses &lt;br&gt;&lt;/li&gt;&lt;li&gt;TiempoRelacionAnos&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-2080" y="9943.13" width="475" height="368.75" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-91" value="Informamos a l usuario que sus datos fueron guardados y Mencionamos que su solicitud está lista para ser enviada 5.5" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="10087.51" width="254.99" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-96" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-92" target="nG91z5L-8xRT3dIath2g-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-92" target="nG91z5L-8xRT3dIath2g-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-92" value="El usuario yaa cargo sus 3 referencias" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1327.5" y="10087.505" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nG91z5L-8xRT3dIath2g-95" target="nG91z5L-8xRT3dIath2g-89">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1287" y="9870" />
+              <mxPoint x="-1843" y="9870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nG91z5L-8xRT3dIath2g-95" value="Informamos que debe cargar las restantes para poder continuar" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1347.5" y="9937.505" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
