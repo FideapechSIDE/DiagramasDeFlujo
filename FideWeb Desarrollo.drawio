@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T21:11:03.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6g80TzlToL3CdNGg8G7F" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T21:40:09.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2qpUCIsAN8414oYFgTLO" version="21.3.8" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3744" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3955" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2738,7 +2738,7 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-226" value="5.3.2 Obtener Datos Credito(Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="188.88" y="22350" width="515" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-227" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nG91z5L-8xRT3dIath2g-227" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="76.38" y="22360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nG91z5L-8xRT3dIath2g-229" target="nG91z5L-8xRT3dIath2g-231" edge="1">
