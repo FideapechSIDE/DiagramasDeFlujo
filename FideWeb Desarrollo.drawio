@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T17:52:02.387Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WSlgrVFKnc_9AbuoKKLh" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T21:11:03.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="6g80TzlToL3CdNGg8G7F" version="21.3.8" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
     <mxGraphModel dx="3744" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2619,13 +2619,13 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-166" value="5.3.1 Crear/Actualizar&amp;nbsp; DatosCredito (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="147.5" y="21740" width="572.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-167" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nG91z5L-8xRT3dIath2g-167" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="35" y="21750" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nG91z5L-8xRT3dIath2g-169" target="nG91z5L-8xRT3dIath2g-171" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-169" value="&lt;div&gt;Crear petición Post&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-credito&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;PlazoAvio&lt;/li&gt;&lt;li&gt;GraciaAvio&lt;/li&gt;&lt;li&gt;M;ontoAvio&lt;/li&gt;&lt;li&gt;PlazoRefaccionario&lt;/li&gt;&lt;li&gt;GraciaRefaccionario&lt;/li&gt;&lt;li&gt;MontoRefaccionario&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="nG91z5L-8xRT3dIath2g-169" value="&lt;div&gt;Crear petición Post&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-credito&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;PlazoAvio&lt;/li&gt;&lt;li&gt;GraciaAvio&lt;/li&gt;&lt;li&gt;M;ontoAvio&lt;/li&gt;&lt;li&gt;PlazoRefaccionario&lt;/li&gt;&lt;li&gt;GraciaRefaccionario&lt;/li&gt;&lt;li&gt;MontoRefaccionario&lt;br&gt;&lt;/li&gt;&lt;li&gt;IdSolicitud&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="43.75" y="21920" width="230" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-170" value="Es&amp;nbsp; vlaido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nG91z5L-8xRT3dIath2g-171" target="nG91z5L-8xRT3dIath2g-173" edge="1">
@@ -2691,7 +2691,7 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-192" value="5.2.2 Obtener Datos Empresa (Endpoint)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="185.25" y="21140" width="515" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-193" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nG91z5L-8xRT3dIath2g-193" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="72.75" y="21150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-194" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nG91z5L-8xRT3dIath2g-195" target="nG91z5L-8xRT3dIath2g-197" edge="1">
