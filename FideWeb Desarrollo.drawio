@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T21:53:43.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yT5yiKAb2PMEqUpks9TO" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T21:31:37.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YDBQ0ppi9bkQvkO23MOe" version="21.3.8" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3545" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3346" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2788,7 +2788,7 @@
         <mxCell id="E4h0h-CNbRLF2Fztteb6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nG91z5L-8xRT3dIath2g-99" target="nG91z5L-8xRT3dIath2g-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k-tjq6inVAIsOURMtQXT-2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="k-tjq6inVAIsOURMtQXT-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="60" y="22810" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k-tjq6inVAIsOURMtQXT-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k-tjq6inVAIsOURMtQXT-4" target="k-tjq6inVAIsOURMtQXT-6" edge="1">
@@ -2809,7 +2809,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k-tjq6inVAIsOURMtQXT-8" value="&lt;div&gt;Extraer los siguietnes datos:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Nombre str(150)&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Telefono (str(15)&lt;/li&gt;&lt;li&gt;CorreoElectronico (str(50)&lt;/li&gt;&lt;li&gt;&lt;u&gt;Colonia&lt;/u&gt;&lt;/li&gt;&lt;li&gt;&lt;u&gt;Estado&lt;/u&gt;&lt;/li&gt;&lt;li&gt;&lt;u&gt;Municipio&lt;/u&gt;&lt;/li&gt;&lt;li&gt;CP&lt;br&gt;&lt;/li&gt;&lt;li&gt;Domicilio &lt;br&gt;&lt;/li&gt;&lt;li&gt;EntreCalles &lt;br&gt;&lt;/li&gt;&lt;li&gt;RFC&lt;br&gt;&lt;/li&gt;&lt;li&gt;NombreComercial &lt;br&gt;&lt;/li&gt;&lt;li&gt;Lista de ActividadEspecificas y altaHacienda (Fecha)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;container=1;" parent="1" vertex="1">
-          <mxGeometry x="725" y="22920" width="220" height="280" as="geometry" />
+          <mxGeometry x="725" y="22920" width="220" height="280" as="geometry">
+            <mxRectangle x="725" y="22920" width="360" height="250" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="k-tjq6inVAIsOURMtQXT-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k-tjq6inVAIsOURMtQXT-11" target="k-tjq6inVAIsOURMtQXT-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
