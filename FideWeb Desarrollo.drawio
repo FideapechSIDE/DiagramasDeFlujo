@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T21:31:37.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YDBQ0ppi9bkQvkO23MOe" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T16:25:59.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="04E7UBlWpO0-NWjBRwfG" version="21.4.0" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3346" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3687" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2745,7 +2745,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-229" value="&lt;div&gt;Crear petición get&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-credito&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="128.63" y="22500" width="220" height="220" as="geometry" />
+          <mxGeometry x="105" y="22500" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-230" value="Es&amp;nbsp; vlaido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nG91z5L-8xRT3dIath2g-231" target="nG91z5L-8xRT3dIath2g-233" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -2839,6 +2839,57 @@
         </mxCell>
         <mxCell id="k-tjq6inVAIsOURMtQXT-16" value="Commit a la db" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1430" y="23037.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-1" value="5.2.1 Completar formulario&amp;nbsp; datos empleado" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="170" y="23320" width="515" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="23330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-3" value="&lt;div&gt;Crear petición get&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-credito_formulario_1&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Nombre o Razón Social&lt;/li&gt;&lt;li&gt;Telefono&lt;/li&gt;&lt;li&gt;Celular&lt;/li&gt;&lt;li&gt;Correo Electrónico&lt;/li&gt;&lt;li&gt;Domicilio&lt;/li&gt;&lt;li&gt;EntreCalles&lt;/li&gt;&lt;li&gt;Colonia&lt;/li&gt;&lt;li&gt;Cp&lt;/li&gt;&lt;li&gt;Municipio&lt;/li&gt;&lt;li&gt;Estado&lt;/li&gt;&lt;li&gt;ArragioAños&lt;/li&gt;&lt;li&gt;ArraigoMeses&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="52.25" y="23410" width="340" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-4" value="Validar token del header" style="whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
+          <mxGeometry x="506.25" y="23550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdABEUnucmtiW3rdQgRT-3" target="IdABEUnucmtiW3rdQgRT-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="23700" as="sourcePoint" />
+            <mxPoint x="510" y="23650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-6" value="Es&amp;nbsp; vlaido" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IdABEUnucmtiW3rdQgRT-4" target="IdABEUnucmtiW3rdQgRT-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="23580" as="targetPoint" />
+            <mxPoint x="637.75" y="23570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdABEUnucmtiW3rdQgRT-7" target="IdABEUnucmtiW3rdQgRT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdABEUnucmtiW3rdQgRT-7" target="IdABEUnucmtiW3rdQgRT-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-7" value="La solicitud existe" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="763.75" y="23540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-8" value="makeresponse&lt;br&gt;201&lt;br&gt;La solicitud no se econtro&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="763.75" y="23700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdABEUnucmtiW3rdQgRT-12" target="IdABEUnucmtiW3rdQgRT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-12" value="Actualizar solicitud con los campos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="903.75" y="23550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IdABEUnucmtiW3rdQgRT-14" target="IdABEUnucmtiW3rdQgRT-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-14" value="Commit a la base de datos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1103.75" y="23550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IdABEUnucmtiW3rdQgRT-16" value="Regresar un json con los datos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1323.75" y="23540" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
