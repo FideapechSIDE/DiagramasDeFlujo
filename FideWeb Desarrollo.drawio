@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T18:19:42.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8_f1_2CnaYlPyAtSdWsW" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T19:17:00.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nZxu84X9g3zpddr2hCxt" version="21.4.0" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
     <mxGraphModel dx="3274" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2945,7 +2945,7 @@
         <mxCell id="IdABEUnucmtiW3rdQgRT-33" value="5.2.1 Completar formulario 3 datos empleado" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="143.75" y="24380" width="515" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IdABEUnucmtiW3rdQgRT-34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IdABEUnucmtiW3rdQgRT-34" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="31.25" y="24390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IdABEUnucmtiW3rdQgRT-35" value="&lt;div&gt;Crear petición get&lt;/div&gt;&lt;div&gt;/api/solicitudes/datos-credito_formulario_3&lt;br&gt;&lt;/div&gt;&lt;div&gt;Recibes:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;token(header)&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;MujeresContratadas&lt;/li&gt;&lt;li&gt;HombresContratados&lt;/li&gt;&lt;li&gt;SueldoAproximado&lt;/li&gt;&lt;li&gt;MujeresAgenerar&lt;/li&gt;&lt;li&gt;HombresAgenerar&lt;/li&gt;&lt;li&gt;SueldoAgenerar&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
