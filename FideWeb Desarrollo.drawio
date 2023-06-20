@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T19:49:57.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NfrnGKwbb07XCZBU3Zky" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T15:31:21.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EYBZBWwKl9OzUo9DMzWb" version="21.5.0" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3313" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3913" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3116,7 +3116,7 @@
         <mxCell id="OWAyPTqF_RFWZS2wVe54-45" value="5.3.3 Crear funcion generadora de DatosEmpressa" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="142.5" y="26400" width="528.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OWAyPTqF_RFWZS2wVe54-46" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OWAyPTqF_RFWZS2wVe54-46" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="30" y="26410" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OWAyPTqF_RFWZS2wVe54-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OWAyPTqF_RFWZS2wVe54-48" target="OWAyPTqF_RFWZS2wVe54-50" edge="1">
