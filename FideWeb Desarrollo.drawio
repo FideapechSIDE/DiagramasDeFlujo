@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T15:31:21.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EYBZBWwKl9OzUo9DMzWb" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T21:12:53.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BeGEpDVrNxKzHjkrboKX" version="21.5.0" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
     <mxGraphModel dx="3913" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3155,7 +3155,7 @@
         <mxCell id="OWAyPTqF_RFWZS2wVe54-61" value="5.3.4 Crear funcion generadora de DatosPersonales" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="128.75" y="26680" width="528.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OWAyPTqF_RFWZS2wVe54-62" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OWAyPTqF_RFWZS2wVe54-62" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="16.25" y="26690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OWAyPTqF_RFWZS2wVe54-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OWAyPTqF_RFWZS2wVe54-64" target="OWAyPTqF_RFWZS2wVe54-66" edge="1">
@@ -3188,7 +3188,7 @@
         <mxCell id="OWAyPTqF_RFWZS2wVe54-72" value="5.3.5 Crear funcion generadora de DatosCredito" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="127.5" y="26950" width="528.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OWAyPTqF_RFWZS2wVe54-73" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OWAyPTqF_RFWZS2wVe54-73" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="15" y="26960" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OWAyPTqF_RFWZS2wVe54-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OWAyPTqF_RFWZS2wVe54-75" target="OWAyPTqF_RFWZS2wVe54-77" edge="1">
@@ -3221,7 +3221,7 @@
         <mxCell id="OWAyPTqF_RFWZS2wVe54-83" value="5.3.6Crear función generadora de DatosGarantía" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="127.5" y="27250" width="528.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OWAyPTqF_RFWZS2wVe54-84" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OWAyPTqF_RFWZS2wVe54-84" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="15" y="27260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OWAyPTqF_RFWZS2wVe54-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OWAyPTqF_RFWZS2wVe54-86" target="OWAyPTqF_RFWZS2wVe54-88" edge="1">
