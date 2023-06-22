@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T21:12:53.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="BeGEpDVrNxKzHjkrboKX" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T17:56:10.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ipKbBBpCaVoxPbGTyqTq" version="21.5.0" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3913" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3955" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2996,7 +2996,7 @@
         <mxCell id="OWAyPTqF_RFWZS2wVe54-1" value="5.3.1 Crear funcion generadora de ssolicitud_pdf" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="137.75" y="25020" width="452.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OWAyPTqF_RFWZS2wVe54-2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OWAyPTqF_RFWZS2wVe54-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="25.25" y="25030" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OWAyPTqF_RFWZS2wVe54-3" value="&lt;div&gt;Crear una fuinción que reciba un IdSolicitud&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -3254,7 +3254,7 @@
         <mxCell id="OWAyPTqF_RFWZS2wVe54-94" value="5.3.7 Crear función generadora de DatosAval" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="118.75" y="27520" width="528.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OWAyPTqF_RFWZS2wVe54-95" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OWAyPTqF_RFWZS2wVe54-95" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="6.25" y="27530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OWAyPTqF_RFWZS2wVe54-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OWAyPTqF_RFWZS2wVe54-97" target="OWAyPTqF_RFWZS2wVe54-99" edge="1">
@@ -3287,7 +3287,7 @@
         <mxCell id="OWAyPTqF_RFWZS2wVe54-105" value="5.3.8 Crear función generadora de DatosAval" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="117.5" y="27790" width="528.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OWAyPTqF_RFWZS2wVe54-106" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OWAyPTqF_RFWZS2wVe54-106" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="5" y="27800" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OWAyPTqF_RFWZS2wVe54-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OWAyPTqF_RFWZS2wVe54-108" target="OWAyPTqF_RFWZS2wVe54-110" edge="1">
@@ -3320,7 +3320,7 @@
         <mxCell id="OWAyPTqF_RFWZS2wVe54-116" value="5.3.8 Crear función generadora de LineasFirma" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="116.25" y="28110" width="528.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OWAyPTqF_RFWZS2wVe54-117" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="OWAyPTqF_RFWZS2wVe54-117" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="3.75" y="28120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OWAyPTqF_RFWZS2wVe54-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OWAyPTqF_RFWZS2wVe54-119" target="OWAyPTqF_RFWZS2wVe54-121" edge="1">
