@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T17:56:10.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ipKbBBpCaVoxPbGTyqTq" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T21:03:00.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="_pQ05HHrqpE9oRo9-dIk" version="21.5.0" type="github">
   <diagram name="Página-1" id="f3gx98RwavGdNtIeZe02">
-    <mxGraphModel dx="3955" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3865" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,12 +110,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mi7T8ba20FckdrNQM4YQ-24" value="&lt;div&gt;Crear Tabla Solicitantes_Conyuges&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;IdUsuario str(40)&lt;/li&gt;&lt;li&gt;PrimerNombre Str(40)&lt;/li&gt;&lt;li&gt;SegundoNombre Str(40)&lt;/li&gt;&lt;li&gt;PrimerApellido Str(40)&lt;/li&gt;&lt;li&gt;SegundoApellido Str(40)&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdMunicipioNacimiento&lt;/u&gt; Int&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;u&gt;IdEstadoNacimiento&lt;/u&gt; Int&lt;/li&gt;&lt;li&gt;FechaNacimiento date&lt;/li&gt;&lt;li&gt;RFC str(13)&lt;/li&gt;&lt;li&gt;Ocupacion str(30)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="1105" width="320" height="350" as="geometry" />
+          <mxGeometry x="757.5" y="1140" width="320" height="285" as="geometry" />
         </mxCell>
         <mxCell id="mi7T8ba20FckdrNQM4YQ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mi7T8ba20FckdrNQM4YQ-26" target="mi7T8ba20FckdrNQM4YQ-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mi7T8ba20FckdrNQM4YQ-26" value="&lt;div&gt;Crear Tabla Solicitudes&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitante str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;FechaSolicitud date&lt;/b&gt;&lt;/li&gt;&lt;li&gt;IdModalidad Int&lt;/li&gt;&lt;li&gt;TipoCredito Int&lt;/li&gt;&lt;li&gt;TipoGarantia Int&lt;/li&gt;&lt;li&gt;IdEstatusSolicitud Int&lt;/li&gt;&lt;li&gt;&lt;b&gt;PersonalidadJuridica&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Antiguedad&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="mi7T8ba20FckdrNQM4YQ-26" value="&lt;div&gt;Crear Tabla Solicitudes&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;IdSolicitud str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;IdSolicitante str(40)&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;FechaSolicitud date&lt;/b&gt;&lt;/li&gt;&lt;li&gt;IdModalidad Int&lt;/li&gt;&lt;li&gt;TipoCredito Int&lt;/li&gt;&lt;li&gt;TipoGarantia Int&lt;/li&gt;&lt;li&gt;IdEstatusSolicitud Int&lt;/li&gt;&lt;li&gt;&lt;b&gt;PersonalidadJuridica&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;Antiguedad&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1200" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="mi7T8ba20FckdrNQM4YQ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mi7T8ba20FckdrNQM4YQ-28" target="mi7T8ba20FckdrNQM4YQ-30" edge="1">
@@ -2426,12 +2426,6 @@
         <mxCell id="nG91z5L-8xRT3dIath2g-95" value="Informamos que debe cargar las restantes para poder continuar" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1347.5" y="9937.505" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nG91z5L-8xRT3dIath2g-99" target="mi7T8ba20FckdrNQM4YQ-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nG91z5L-8xRT3dIath2g-99" value="&lt;div&gt;Agregar ultimas dos columnas obligatorias&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Permitir que la modalidad sea opcional&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="1420" width="220" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="nG91z5L-8xRT3dIath2g-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nG91z5L-8xRT3dIath2g-101" target="nG91z5L-8xRT3dIath2g-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2784,9 +2778,6 @@
         </mxCell>
         <mxCell id="k-tjq6inVAIsOURMtQXT-1" value="5.2.4 Obtener Datos Constancia Situación Fiscal" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="172.5" y="22800" width="515" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="E4h0h-CNbRLF2Fztteb6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nG91z5L-8xRT3dIath2g-99" target="nG91z5L-8xRT3dIath2g-99" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k-tjq6inVAIsOURMtQXT-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="60" y="22810" width="80" height="80" as="geometry" />
