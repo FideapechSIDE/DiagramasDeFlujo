@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T21:18:58.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="0DbgDzVlnIJp3Kr4XgXu" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T21:24:52.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="8nMFHUiLWXe3A5DgdOV_" version="21.6.5" type="github">
   <diagram name="Página-1" id="JHJfn4mjrUaLfloTid5-">
-    <mxGraphModel dx="1914" dy="2121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1914" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EC1kwhelbDId_uSTZI2A-23" value="Moral más de 12 meses" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-1" target="EC1kwhelbDId_uSTZI2A-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="210" as="targetPoint" />
+            <mxPoint x="670" y="630" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="440" y="250" />
-              <mxPoint x="441" y="250" />
-              <mxPoint x="441" y="135" />
+              <mxPoint x="670" y="670" />
+              <mxPoint x="671" y="670" />
+              <mxPoint x="671" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EC1kwhelbDId_uSTZI2A-25" value="Moral Menos 12 meses" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-1" target="EC1kwhelbDId_uSTZI2A-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="345" as="targetPoint" />
+            <mxPoint x="940" y="765" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="345" />
-              <mxPoint x="680" y="565" />
+              <mxPoint x="790" y="765" />
+              <mxPoint x="790" y="985" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -30,7 +30,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EC1kwhelbDId_uSTZI2A-1" value="Que personalidad Juridica tiene y que antiguedad" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="290" width="100" height="110" as="geometry" />
+          <mxGeometry x="620" y="710" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EC1kwhelbDId_uSTZI2A-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-26" target="EC1kwhelbDId_uSTZI2A-33">
           <mxGeometry relative="1" as="geometry" />
@@ -39,22 +39,55 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EC1kwhelbDId_uSTZI2A-26" value="¿Tu proyecto tiene que ver con franquicias?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="510" width="100" height="110" as="geometry" />
+          <mxGeometry x="620" y="930" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EC1kwhelbDId_uSTZI2A-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-28" target="EC1kwhelbDId_uSTZI2A-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-28" target="EC1kwhelbDId_uSTZI2A-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EC1kwhelbDId_uSTZI2A-28" value="¿Para que necesitas tucrédito?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="80" width="100" height="110" as="geometry" />
+          <mxGeometry x="450" y="500" width="100" height="110" as="geometry" />
         </mxCell>
         <mxCell id="EC1kwhelbDId_uSTZI2A-33" value="Modalidad Emprende" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="715" width="80" height="80" as="geometry" />
+          <mxGeometry x="630" y="1135" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EC1kwhelbDId_uSTZI2A-35" value="Modalidad Franquicias" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="220" y="525" width="80" height="80" as="geometry" />
+          <mxGeometry x="450" y="945" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-39" target="EC1kwhelbDId_uSTZI2A-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EC1kwhelbDId_uSTZI2A-39" value="Avío" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-80" width="100" height="110" as="geometry" />
+          <mxGeometry x="450" y="340" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-41" value="Modalidad Empresas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-43" target="EC1kwhelbDId_uSTZI2A-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-43" value="Refaccionario" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="500" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-47" value="Otros" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-45" target="EC1kwhelbDId_uSTZI2A-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-49" value="Proyecto de tecnología" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-45" target="EC1kwhelbDId_uSTZI2A-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-51" value="Proyecto Verde" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EC1kwhelbDId_uSTZI2A-45" target="EC1kwhelbDId_uSTZI2A-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-45" value="¿Con que está relacionado tu proyecto?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="195" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-48" value="Modalidad Tecnologia" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EC1kwhelbDId_uSTZI2A-50" value="Modalidad Verde" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
